@@ -13,14 +13,14 @@ public class Solution {
                 nums2, 0, nums2.length);
     }
 
-    // the signature is so Egg-Pain due to Java's primitive arrays don't support non-copy slice view.
+    // the signature is so Egg-Pain due to Java's primitive arrays don't provide non-copy slice view.
     private double findRankedSortedArrays(int rank, boolean isOdd,
             int[] nums1, int lo1, int hi1,
             int[] nums2, int lo2, int hi2) {
         if (lo1 == hi1) { return findRankedSortedArrays(rank, isOdd, nums2, lo2, hi2, nums1, lo1, hi1); }
         int rank1 = (lo1 + hi1)/2 + 1;
         int rank2 = getLastRankLessThan(nums1[rank1-1], nums2, lo2, hi2);
-        // rank1 and rank2 are not symmetric, rank1 includes the first element >= value while rank2 not
+        // rank1 and rank2 are not symmetric, rank1 includes the first element >= value while rank2 does not
         if (rank1 + rank2 < rank) {
             return findRankedSortedArrays(rank, isOdd,
                     nums1, rank1, hi1,
@@ -28,7 +28,7 @@ public class Solution {
                     );
         } else if (rank1 + rank2 > rank) {
             return findRankedSortedArrays(rank, isOdd,
-                    nums1, lo1, rank1-1, // rank-1 to get rid of the element which = nums[mid]
+                    nums1, lo1, rank1-1, // rank-1 to get rid of the element == value
                     nums2, lo2, rank2
                     );
         } else {
@@ -60,7 +60,7 @@ public class Solution {
 }
 ```
 
-It's just the mutation of binary search. The most tricky part is the calculation of the indices/rank are very easily to cause add-one/lack-one fault. Remember `rank = index + 1`.
+It's just the mutation of binary search. The most tricky part is the calculation of the indices/rank which tended to cause add-one/lack-one fault. Remember `rank = index + 1`.
 
 corner cases:
 - nums1 is empty but nums2 is not: cause we use nums1 as the search base of nums2, in this case swap nums1 and nums2.
