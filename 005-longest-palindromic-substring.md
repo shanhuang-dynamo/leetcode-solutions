@@ -37,3 +37,4 @@ corner cases:
 optimization:
 - cache the length of duplicated central chars so that center index can jump through them
 - THEORICAL: Is there an algo better than O(n^2) time and O(n) space?
+- worst case: "abababababababababababababababababa..."
