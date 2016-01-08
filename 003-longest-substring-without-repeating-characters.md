@@ -15,10 +15,10 @@ public class Solution {
         int idx = 0;
         for (char c : s.toCharArray()) {
             int lastIdx = lastOccurence[c];
-            int len = Math.min(idx - leftBoundary, idx - lastIdx);
             if (lastIdx > leftBoundary) {
                 leftBoundary = lastIdx;
             }
+            int len = idx - leftBoundary;
             if (len > maxLen) {
                 maxLen = len;
             }
@@ -29,8 +29,7 @@ public class Solution {
     }
 }
 ```
-There are 2 indices specifying the left boundary of query on current index. `leftBoundary` indicates left boundary of last repetition; and `lastIdx` indicates left boundary of last occurrence of current char.
 
 Corner cases:
 - first occurence: so the `lastOccurence` need have a default value `-1`
-- repetition inside 2 duplicated char ('abba'): so get the shortest of lenght between `lastIdx`/`leftBoundary` to current idx
+- repetition inside 2 duplicated char ('abba'): the `leftBoundary` is always the left boundary of last repetition.
