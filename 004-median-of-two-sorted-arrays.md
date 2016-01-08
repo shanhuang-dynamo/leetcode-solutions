@@ -60,6 +60,6 @@ public class Solution {
 It's just the mutation of binary search. The most tricky part is the calculation of the indices/rank are very easily to cause add-one/lack-one fault. Remember `rank = index + 1`.
 
 corner cases:
-- nums1 is empty but nums2 is not: cause we use uums1 as the search base of nums2, in this case swap nums1 and nums2.
+- nums1 is empty but nums2 is not: cause we use nums1 as the search base of nums2, in this case swap nums1 and nums2.
 - both are empty: return null
 - when returning value: when total size is even, is possible that rank1/rank2 == end of array, but at any time only one of them might be at end of array.
