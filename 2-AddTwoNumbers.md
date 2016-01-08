@@ -1,7 +1,7 @@
 [2 Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 ```java
 // Time: O(n)
-// Space: O(1)
+// Space: O(n)
 // Runtime: 4ms
 /**
  * Definition for singly-linked list.
