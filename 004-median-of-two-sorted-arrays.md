@@ -14,7 +14,9 @@ public class Solution {
     }
 
     // the signature is so Egg-Pain due to Java's primitive arrays don't support non-copy slice view.
-    private double findRankedSortedArrays(int rank, boolean isOdd, int[] nums1, int lo1, int hi1, int[] nums2, int lo2, int hi2) {
+    private double findRankedSortedArrays(int rank, boolean isOdd,
+            int[] nums1, int lo1, int hi1,
+            int[] nums2, int lo2, int hi2) {
         if (lo1 == hi1) { return findRankedSortedArrays(rank, isOdd, nums2, lo2, hi2, nums1, lo1, hi1); }
         int rank1 = (lo1 + hi1)/2 + 1;
         int rank2 = getLastRankLessThan(nums1[rank1-1], nums2, lo2, hi2);
