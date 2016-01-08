@@ -33,4 +33,4 @@ There are 2 indices specifying the left boundary of query on current index. `lef
 
 Corner cases:
 - first occurence: so the `lastOccurence` need have a default value `-1`
-- repetition inside 2 duplicated char ('abba'): so get the shortest of lenght between `lastOccurence`/`leftBoundary` to current idx
+- repetition inside 2 duplicated char ('abba'): so get the shortest of lenght between `lastIdx`/`leftBoundary` to current idx
