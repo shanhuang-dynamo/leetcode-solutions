@@ -48,7 +48,7 @@ optimization:
 ## [Manacher's Algorithm](https://github.com/cbsheng/fun_acm/blob/master/blog/%E6%B1%82%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2%E4%B9%8BManacher%E7%AE%97%E6%B3%95.md)
 [Wikipedia](https://en.wikipedia.org/wiki/Longest_palindromic_substring#Manacher.27s_algorithm)
 
-![principle of Manacher's Algorithm](longest-palindromic-substring-demo.png)
+![principle of Manacher's Algorithm](images/longest-palindromic-substring-demo.png)
 
 The principle is to use dynamic programming to reuse former info. The redundancy lies in the overlapping part between palindrom #1 and #3, given #1 and #2 are known.
 
