@@ -1,5 +1,10 @@
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
+- [prev: 3. Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.md)
+- [next: 5. Longest Palindromic Substring](005-longest-palindromic-substring.md)
+
+---
+
 ```java
 // Time: O(lg(m+n))
 // Space: O(lg(m+n)) in call stack
@@ -66,3 +71,8 @@ corner cases:
 - nums1 is empty but nums2 is not: cause we use nums1 as the search base of nums2, in this case swap nums1 and nums2.
 - both are empty: return null
 - when returning value: when total size is even, is possible that rank1/rank2 == end of array, but at any time only one of them might be at end of array.
+
+---
+
+- [prev: 3. Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.md)
+- [next: 5. Longest Palindromic Substring](005-longest-palindromic-substring.md)

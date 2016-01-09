@@ -1,5 +1,10 @@
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
+- [prev: 2 Add Two Numbers](002-add-two-numbers.md)
+- [next: 4. Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.md)
+
+---
+
 ```java
 // Time: O(n)
 // Space: O(size of char set)
@@ -33,3 +38,8 @@ public class Solution {
 Corner cases:
 - first occurence: so the `lastOccurence` need have a default value `-1`
 - repetition inside 2 duplicated char ('abba'): the `leftBoundary` is always the left boundary of last repetition.
+
+---
+
+- [prev: 2 Add Two Numbers](002-add-two-numbers.md)
+- [next: 4. Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.md)
