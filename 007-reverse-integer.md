@@ -5,6 +5,20 @@
 
 ---
 
+```java
+public class Solution {
+    public int reverse(int x) {
+        long reversed = 0;
+        while (x != 0) {
+            reversed = reversed * 10 + x % 10;
+            x /= 10;
+        }
+        return (Integer.MIN_VALUE <= reversed && reversed <= Integer.MAX_VALUE) ? (int) reversed : 0;
+    }
+}
+```
+corner cases:
+- reversed value overflow => return 0
 
 ---
 
