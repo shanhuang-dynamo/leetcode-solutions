@@ -5,6 +5,61 @@
 
 ---
 
+This problem is not hard in algorithm, but in its complex business logic.
+It's more real world code.
+
+![FSA of atoi](images/atoi-FSA.png)
+
+```java
+public class Solution {
+    public int myAtoi(String str) {
+        if (str == null || str.isEmpty()) return 0;
+        
+        long absVal = 0;
+        int sign = 1;
+        char[] chars = str.toCharArray();
+        int len = str.length();
+        int idx = 0;
+        while (idx < len) {
+            char c = chars[idx++];
+            if (Character.isSpaceChar(c)) {
+            } else if (c == '-') {
+                sign = -1;
+                break;
+            } else if (c == '+') {
+                break;
+            } else {
+                int diff = c - '0';
+                if (0 <= diff && diff <= 9) {
+                    absVal = diff;
+                    break;
+                } else {
+                    return 0;
+                }
+            }
+        }
+        
+        while (idx < len) {
+            char c = chars[idx++];
+            int diff = c - '0';
+            if (0 <= diff && diff <= 9) {
+                absVal = absVal * 10 + diff;
+                if (sign == 1 && absVal > Integer.MAX_VALUE) {
+                    return Integer.MAX_VALUE;
+                } else if (sign == -1 && -absVal < Integer.MIN_VALUE) {
+                    return Integer.MIN_VALUE;
+                }
+            } else {
+                return (int) absVal * sign;
+            }
+        }
+        
+        return (int) absVal * sign;
+    }
+}
+```
+In fact for such code, modularization is a much better idea comparing to any attempts to simplify it.
+(e.g. build a FSA parser to support extensibility)
 
 ---
 
