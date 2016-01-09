@@ -28,9 +28,10 @@ import java.util.HashMap;
 
 // Time: O(n)
 // Space: O(n)
+// Runtime: 5ms
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> indices = new HashMap<>();
+        HashMap<Integer, Integer> indices = new HashMap<>(nums.length);
         for (int i = 0; i < nums.length; i++) {
             int value = nums[i];
             int complement = target - value;
