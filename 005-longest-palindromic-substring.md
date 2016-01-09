@@ -56,7 +56,7 @@ Let `rightMostBoundary` be the right most palindrome boundary iterated. If a pal
 import java.util.Arrays;
 
 // Time: O(n)
-// Space: O(3n)
+// Space: O(4n)
 public class Solution {
     public String longestPalindrome(String s) {
         if (s == null || s.length() == 0) return "";
