@@ -1,4 +1,4 @@
-[48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+[048. Rotate Image](https://leetcode.com/problems/rotate-image/)
 
 [![java]](../java/048-rotate-image.md)
 [![cpp]](../cpp/048-rotate-image.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 47. Permutations II](047-permutations-ii.md)
-- [next: 49. Group Anagrams](049-anagrams.md)
+- [prev: 047. Permutations II](047-permutations-ii.md)
+- [next: 049. Group Anagrams](049-anagrams.md)
 
 ---
 
 
+
 ---
 
-- [prev: 47. Permutations II](047-permutations-ii.md)
-- [next: 49. Group Anagrams](049-anagrams.md)
+- [prev: 047. Permutations II](047-permutations-ii.md)
+- [next: 049. Group Anagrams](049-anagrams.md)

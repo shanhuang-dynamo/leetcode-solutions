@@ -1,4 +1,4 @@
-[61. Rotate List](https://leetcode.com/problems/rotate-list/)
+[061. Rotate List](https://leetcode.com/problems/rotate-list/)
 
 [![java]](../java/061-rotate-list.md)
 [![cpp]](../cpp/061-rotate-list.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 60. Permutation Sequence](060-permutation-sequence.md)
-- [next: 62. Unique Paths](062-unique-paths.md)
+- [prev: 060. Permutation Sequence](060-permutation-sequence.md)
+- [next: 062. Unique Paths](062-unique-paths.md)
 
 ---
 
 
+
 ---
 
-- [prev: 60. Permutation Sequence](060-permutation-sequence.md)
-- [next: 62. Unique Paths](062-unique-paths.md)
+- [prev: 060. Permutation Sequence](060-permutation-sequence.md)
+- [next: 062. Unique Paths](062-unique-paths.md)

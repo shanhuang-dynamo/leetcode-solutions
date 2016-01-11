@@ -1,4 +1,4 @@
-[1. Two Sum](https://leetcode.com/problems/two-sum/)
+[001. Two Sum](https://leetcode.com/problems/two-sum/)
 
 [![java]](../java/001-two-sum.md)
 [![cpp]](../cpp/001-two-sum.md)
@@ -16,7 +16,7 @@
 [js]: ../images/js-logo.png
 
 - prev: none
-- [next: 2 Add Two Numbers](002-add-two-numbers.md)
+- [next: 002. Add Two Numbers](002-add-two-numbers.md)
 
 ---
 
@@ -69,7 +69,8 @@ public class Solution {
 P.S. Using array in Java could beat 99.9% at runtime. But to make it theorically correct u have at least allocate `INT_SIZE`
 for the array. And it's not a good practice in engineering.
 
+
 ---
 
 - prev: none
-- [next: 2 Add Two Numbers](002-add-two-numbers.md)
+- [next: 002. Add Two Numbers](002-add-two-numbers.md)

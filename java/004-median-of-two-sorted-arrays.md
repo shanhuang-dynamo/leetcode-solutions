@@ -1,4 +1,4 @@
-[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+[004. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 [![java]](../java/004-median-of-two-sorted-arrays.md)
 [![cpp]](../cpp/004-median-of-two-sorted-arrays.md)
@@ -15,8 +15,8 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 3. Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.md)
-- [next: 5. Longest Palindromic Substring](005-longest-palindromic-substring.md)
+- [prev: 003. Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.md)
+- [next: 005. Longest Palindromic Substring](005-longest-palindromic-substring.md)
 
 ---
 
@@ -87,7 +87,8 @@ corner cases:
 - both are empty: return null
 - when returning value: when total size is even, is possible that rank1/rank2 == end of array, but at any time only one of them might be at end of array.
 
+
 ---
 
-- [prev: 3. Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.md)
-- [next: 5. Longest Palindromic Substring](005-longest-palindromic-substring.md)
+- [prev: 003. Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.md)
+- [next: 005. Longest Palindromic Substring](005-longest-palindromic-substring.md)

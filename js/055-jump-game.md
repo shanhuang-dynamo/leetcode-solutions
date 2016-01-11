@@ -1,4 +1,4 @@
-[55. Jump Game](https://leetcode.com/problems/jump-game/)
+[055. Jump Game](https://leetcode.com/problems/jump-game/)
 
 [![java]](../java/055-jump-game.md)
 [![cpp]](../cpp/055-jump-game.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 54. Spiral Matrix](054-spiral-matrix.md)
-- [next: 56. Merge Intervals](056-merge-intervals.md)
+- [prev: 054. Spiral Matrix](054-spiral-matrix.md)
+- [next: 056. Merge Intervals](056-merge-intervals.md)
 
 ---
 
 
+
 ---
 
-- [prev: 54. Spiral Matrix](054-spiral-matrix.md)
-- [next: 56. Merge Intervals](056-merge-intervals.md)
+- [prev: 054. Spiral Matrix](054-spiral-matrix.md)
+- [next: 056. Merge Intervals](056-merge-intervals.md)

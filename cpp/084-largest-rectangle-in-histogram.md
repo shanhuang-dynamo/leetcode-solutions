@@ -1,4 +1,4 @@
-[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+[084. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 [![java]](../java/084-largest-rectangle-in-histogram.md)
 [![cpp]](../cpp/084-largest-rectangle-in-histogram.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 83. Remove Duplicates from Sorted List](083-remove-duplicates-from-sorted-list.md)
-- [next: 85. Maximal Rectangle](085-maximal-rectangle.md)
+- [prev: 083. Remove Duplicates from Sorted List](083-remove-duplicates-from-sorted-list.md)
+- [next: 085. Maximal Rectangle](085-maximal-rectangle.md)
 
 ---
 
 
+
 ---
 
-- [prev: 83. Remove Duplicates from Sorted List](083-remove-duplicates-from-sorted-list.md)
-- [next: 85. Maximal Rectangle](085-maximal-rectangle.md)
+- [prev: 083. Remove Duplicates from Sorted List](083-remove-duplicates-from-sorted-list.md)
+- [next: 085. Maximal Rectangle](085-maximal-rectangle.md)

@@ -1,4 +1,4 @@
-[37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+[037. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 
 [![java]](../java/037-sudoku-solver.md)
 [![cpp]](../cpp/037-sudoku-solver.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 36. Valid Sudoku](036-valid-sudoku.md)
-- [next: 38. Count and Say](038-count-and-say.md)
+- [prev: 036. Valid Sudoku](036-valid-sudoku.md)
+- [next: 038. Count and Say](038-count-and-say.md)
 
 ---
 
 
+
 ---
 
-- [prev: 36. Valid Sudoku](036-valid-sudoku.md)
-- [next: 38. Count and Say](038-count-and-say.md)
+- [prev: 036. Valid Sudoku](036-valid-sudoku.md)
+- [next: 038. Count and Say](038-count-and-say.md)

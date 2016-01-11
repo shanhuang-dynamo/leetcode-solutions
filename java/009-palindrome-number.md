@@ -1,4 +1,4 @@
-[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+[009. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 [![java]](../java/009-palindrome-number.md)
 [![cpp]](../cpp/009-palindrome-number.md)
@@ -15,8 +15,8 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 8. String to Integer (atoi)](008-string-to-integer-atoi.md)
-- [next: 10. Regular Expression Matching](010-regular-expression-matching.md)
+- [prev: 008. String to Integer (atoi)](008-string-to-integer-atoi.md)
+- [next: 010. Regular Expression Matching](010-regular-expression-matching.md)
 
 ---
 Caution: because of the O(1) space restriction, any algo that use multiplying
@@ -40,7 +40,8 @@ public class Solution {
 }
 ```
 
+
 ---
 
-- [prev: 8. String to Integer (atoi)](008-string-to-integer-atoi.md)
-- [next: 10. Regular Expression Matching](010-regular-expression-matching.md)
+- [prev: 008. String to Integer (atoi)](008-string-to-integer-atoi.md)
+- [next: 010. Regular Expression Matching](010-regular-expression-matching.md)

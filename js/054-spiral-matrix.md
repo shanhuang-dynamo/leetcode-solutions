@@ -1,4 +1,4 @@
-[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+[054. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
 [![java]](../java/054-spiral-matrix.md)
 [![cpp]](../cpp/054-spiral-matrix.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 53. Maximum Subarray](053-maximum-subarray.md)
-- [next: 55. Jump Game](055-jump-game.md)
+- [prev: 053. Maximum Subarray](053-maximum-subarray.md)
+- [next: 055. Jump Game](055-jump-game.md)
 
 ---
 
 
+
 ---
 
-- [prev: 53. Maximum Subarray](053-maximum-subarray.md)
-- [next: 55. Jump Game](055-jump-game.md)
+- [prev: 053. Maximum Subarray](053-maximum-subarray.md)
+- [next: 055. Jump Game](055-jump-game.md)

@@ -1,4 +1,4 @@
-[31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+[031. Next Permutation](https://leetcode.com/problems/next-permutation/)
 
 [![java]](../java/031-next-permutation.md)
 [![cpp]](../cpp/031-next-permutation.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 30. Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words.md)
-- [next: 32. Longest Valid Parentheses](032-longest-valid-parentheses.md)
+- [prev: 030. Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words.md)
+- [next: 032. Longest Valid Parentheses](032-longest-valid-parentheses.md)
 
 ---
 
 
+
 ---
 
-- [prev: 30. Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words.md)
-- [next: 32. Longest Valid Parentheses](032-longest-valid-parentheses.md)
+- [prev: 030. Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words.md)
+- [next: 032. Longest Valid Parentheses](032-longest-valid-parentheses.md)

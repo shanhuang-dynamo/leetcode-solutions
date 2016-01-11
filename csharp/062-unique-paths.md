@@ -1,4 +1,4 @@
-[62. Unique Paths](https://leetcode.com/problems/unique-paths/)
+[062. Unique Paths](https://leetcode.com/problems/unique-paths/)
 
 [![java]](../java/062-unique-paths.md)
 [![cpp]](../cpp/062-unique-paths.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 61. Rotate List](061-rotate-list.md)
-- [next: 63. Unique Paths II](063-unique-paths-ii.md)
+- [prev: 061. Rotate List](061-rotate-list.md)
+- [next: 063. Unique Paths II](063-unique-paths-ii.md)
 
 ---
 
 
+
 ---
 
-- [prev: 61. Rotate List](061-rotate-list.md)
-- [next: 63. Unique Paths II](063-unique-paths-ii.md)
+- [prev: 061. Rotate List](061-rotate-list.md)
+- [next: 063. Unique Paths II](063-unique-paths-ii.md)

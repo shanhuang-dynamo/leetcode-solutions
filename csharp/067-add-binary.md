@@ -1,4 +1,4 @@
-[67. Add Binary](https://leetcode.com/problems/add-binary/)
+[067. Add Binary](https://leetcode.com/problems/add-binary/)
 
 [![java]](../java/067-add-binary.md)
 [![cpp]](../cpp/067-add-binary.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 66. Plus One](066-plus-one.md)
-- [next: 68. Text Justification](068-text-justification.md)
+- [prev: 066. Plus One](066-plus-one.md)
+- [next: 068. Text Justification](068-text-justification.md)
 
 ---
 
 
+
 ---
 
-- [prev: 66. Plus One](066-plus-one.md)
-- [next: 68. Text Justification](068-text-justification.md)
+- [prev: 066. Plus One](066-plus-one.md)
+- [next: 068. Text Justification](068-text-justification.md)

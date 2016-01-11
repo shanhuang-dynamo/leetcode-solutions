@@ -1,4 +1,4 @@
-[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 [![java]](../java/088-merge-sorted-array.md)
 [![cpp]](../cpp/088-merge-sorted-array.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 87. Scramble String](087-scramble-string.md)
-- [next: 89. Gray Code](089-gray-code.md)
+- [prev: 087. Scramble String](087-scramble-string.md)
+- [next: 089. Gray Code](089-gray-code.md)
 
 ---
 
 
+
 ---
 
-- [prev: 87. Scramble String](087-scramble-string.md)
-- [next: 89. Gray Code](089-gray-code.md)
+- [prev: 087. Scramble String](087-scramble-string.md)
+- [next: 089. Gray Code](089-gray-code.md)

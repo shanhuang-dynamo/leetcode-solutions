@@ -1,4 +1,4 @@
-[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+[043. Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 
 [![java]](../java/043-multiply-strings.md)
 [![cpp]](../cpp/043-multiply-strings.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 42. Trapping Rain Water](042-trapping-rain-water.md)
-- [next: 44. Wildcard Matching](044-wildcard-matching.md)
+- [prev: 042. Trapping Rain Water](042-trapping-rain-water.md)
+- [next: 044. Wildcard Matching](044-wildcard-matching.md)
 
 ---
 
 
+
 ---
 
-- [prev: 42. Trapping Rain Water](042-trapping-rain-water.md)
-- [next: 44. Wildcard Matching](044-wildcard-matching.md)
+- [prev: 042. Trapping Rain Water](042-trapping-rain-water.md)
+- [next: 044. Wildcard Matching](044-wildcard-matching.md)

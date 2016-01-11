@@ -1,4 +1,4 @@
-[59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+[059. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 
 [![java]](../java/059-spiral-matrix-ii.md)
 [![cpp]](../cpp/059-spiral-matrix-ii.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 58. Length of Last Word](058-length-of-last-word.md)
-- [next: 60. Permutation Sequence](060-permutation-sequence.md)
+- [prev: 058. Length of Last Word](058-length-of-last-word.md)
+- [next: 060. Permutation Sequence](060-permutation-sequence.md)
 
 ---
 
 
+
 ---
 
-- [prev: 58. Length of Last Word](058-length-of-last-word.md)
-- [next: 60. Permutation Sequence](060-permutation-sequence.md)
+- [prev: 058. Length of Last Word](058-length-of-last-word.md)
+- [next: 060. Permutation Sequence](060-permutation-sequence.md)

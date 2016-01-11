@@ -1,4 +1,4 @@
-[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+[006. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 [![java]](../java/006-zigzag-conversion.md)
 [![cpp]](../cpp/006-zigzag-conversion.md)
@@ -15,8 +15,8 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 5. Longest Palindromic Substring](005-longest-palindromic-substring.md)
-- [next: 7. Reverse Integer](007-reverse-integer.md)
+- [prev: 005. Longest Palindromic Substring](005-longest-palindromic-substring.md)
+- [next: 007. Reverse Integer](007-reverse-integer.md)
 
 ---
 
@@ -94,7 +94,8 @@ Note that it's efficiency is based on the assumption that `java.lang.String` is 
     1. calculate true length of each row beforehand;
     2. or use a `StringBuilder` for each row and concat them at last.
 
+
 ---
 
-- [prev: 5. Longest Palindromic Substring](005-longest-palindromic-substring.md)
-- [next: 7. Reverse Integer](007-reverse-integer.md)
+- [prev: 005. Longest Palindromic Substring](005-longest-palindromic-substring.md)
+- [next: 007. Reverse Integer](007-reverse-integer.md)

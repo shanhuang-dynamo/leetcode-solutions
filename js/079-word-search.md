@@ -1,4 +1,4 @@
-[79. Word Search](https://leetcode.com/problems/word-search/)
+[079. Word Search](https://leetcode.com/problems/word-search/)
 
 [![java]](../java/079-word-search.md)
 [![cpp]](../cpp/079-word-search.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 78. Subsets](078-subsets.md)
-- [next: 80. Remove Duplicates from Sorted Array II](080-remove-duplicates-from-sorted-array-ii.md)
+- [prev: 078. Subsets](078-subsets.md)
+- [next: 080. Remove Duplicates from Sorted Array II](080-remove-duplicates-from-sorted-array-ii.md)
 
 ---
 
 
+
 ---
 
-- [prev: 78. Subsets](078-subsets.md)
-- [next: 80. Remove Duplicates from Sorted Array II](080-remove-duplicates-from-sorted-array-ii.md)
+- [prev: 078. Subsets](078-subsets.md)
+- [next: 080. Remove Duplicates from Sorted Array II](080-remove-duplicates-from-sorted-array-ii.md)

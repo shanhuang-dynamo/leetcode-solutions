@@ -1,4 +1,4 @@
-[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+[042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 [![java]](../java/042-trapping-rain-water.md)
 [![cpp]](../cpp/042-trapping-rain-water.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 41. First Missing Positive](041-first-missing-positive.md)
-- [next: 43. Multiply Strings](043-multiply-strings.md)
+- [prev: 041. First Missing Positive](041-first-missing-positive.md)
+- [next: 043. Multiply Strings](043-multiply-strings.md)
 
 ---
 
 
+
 ---
 
-- [prev: 41. First Missing Positive](041-first-missing-positive.md)
-- [next: 43. Multiply Strings](043-multiply-strings.md)
+- [prev: 041. First Missing Positive](041-first-missing-positive.md)
+- [next: 043. Multiply Strings](043-multiply-strings.md)

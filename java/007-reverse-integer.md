@@ -1,4 +1,4 @@
-[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
 [![java]](../java/007-reverse-integer.md)
 [![cpp]](../cpp/007-reverse-integer.md)
@@ -15,8 +15,8 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 6. ZigZag Conversion](006-zigzag-conversion.md)
-- [next: 8. String to Integer (atoi)](008-string-to-integer-atoi.md)
+- [prev: 006. ZigZag Conversion](006-zigzag-conversion.md)
+- [next: 008. String to Integer (atoi)](008-string-to-integer-atoi.md)
 
 ---
 
@@ -32,7 +32,8 @@ public class Solution {
 corner cases:
 - reversed value overflow => return 0
 
+
 ---
 
-- [prev: 6. ZigZag Conversion](006-zigzag-conversion.md)
-- [next: 8. String to Integer (atoi)](008-string-to-integer-atoi.md)
+- [prev: 006. ZigZag Conversion](006-zigzag-conversion.md)
+- [next: 008. String to Integer (atoi)](008-string-to-integer-atoi.md)

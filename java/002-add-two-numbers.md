@@ -1,4 +1,4 @@
-[2 Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+[002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 [![java]](../java/002-add-two-numbers.md)
 [![cpp]](../cpp/002-add-two-numbers.md)
@@ -15,8 +15,8 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 1. Two Sum](001-two-sum.md)
-- [next: 3. Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.md)
+- [prev: 001. Two Sum](001-two-sum.md)
+- [next: 003. Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.md)
 
 ---
 
@@ -62,7 +62,8 @@ Corner cases:
 
 If the naive solution didn't suffer from performance issue, just use the most intuitive code.
 
+
 ---
 
-- [prev: 1. Two Sum](001-two-sum.md)
-- [next: 3. Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.md)
+- [prev: 001. Two Sum](001-two-sum.md)
+- [next: 003. Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.md)

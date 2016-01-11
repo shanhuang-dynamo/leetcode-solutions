@@ -1,4 +1,4 @@
-[87. Scramble String](https://leetcode.com/problems/scramble-string/)
+[087. Scramble String](https://leetcode.com/problems/scramble-string/)
 
 [![java]](../java/087-scramble-string.md)
 [![cpp]](../cpp/087-scramble-string.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 86. Partition List](086-partition-list.md)
-- [next: 88. Merge Sorted Array](088-merge-sorted-array.md)
+- [prev: 086. Partition List](086-partition-list.md)
+- [next: 088. Merge Sorted Array](088-merge-sorted-array.md)
 
 ---
 
 
+
 ---
 
-- [prev: 86. Partition List](086-partition-list.md)
-- [next: 88. Merge Sorted Array](088-merge-sorted-array.md)
+- [prev: 086. Partition List](086-partition-list.md)
+- [next: 088. Merge Sorted Array](088-merge-sorted-array.md)

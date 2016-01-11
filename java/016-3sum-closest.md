@@ -1,4 +1,4 @@
-[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+[016. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 
 [![java]](../java/016-3sum-closest.md)
 [![cpp]](../cpp/016-3sum-closest.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 15. 3Sum](015-3sum.md)
-- [next: 17. Letter Combinations of a Phone Number](017-letter-combinations-of-a-phone-number.md)
+- [prev: 015. 3Sum](015-3sum.md)
+- [next: 017. Letter Combinations of a Phone Number](017-letter-combinations-of-a-phone-number.md)
 
 ---
 
 
+
 ---
 
-- [prev: 15. 3Sum](015-3sum.md)
-- [next: 17. Letter Combinations of a Phone Number](017-letter-combinations-of-a-phone-number.md)
+- [prev: 015. 3Sum](015-3sum.md)
+- [next: 017. Letter Combinations of a Phone Number](017-letter-combinations-of-a-phone-number.md)

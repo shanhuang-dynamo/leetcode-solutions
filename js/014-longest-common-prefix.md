@@ -1,4 +1,4 @@
-[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+[014. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 [![java]](../java/014-longest-common-prefix.md)
 [![cpp]](../cpp/014-longest-common-prefix.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 13. Roman to Integer](013-roman-to-integer.md)
-- [next: 15. 3Sum](015-3sum.md)
+- [prev: 013. Roman to Integer](013-roman-to-integer.md)
+- [next: 015. 3Sum](015-3sum.md)
 
 ---
 
 
+
 ---
 
-- [prev: 13. Roman to Integer](013-roman-to-integer.md)
-- [next: 15. 3Sum](015-3sum.md)
+- [prev: 013. Roman to Integer](013-roman-to-integer.md)
+- [next: 015. 3Sum](015-3sum.md)

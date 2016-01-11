@@ -1,4 +1,4 @@
-[50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
+[050. Pow(x, n)](https://leetcode.com/problems/powx-n/)
 
 [![java]](../java/050-powx-n.md)
 [![cpp]](../cpp/050-powx-n.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 49. Group Anagrams](049-anagrams.md)
-- [next: 51. N-Queens](051-n-queens.md)
+- [prev: 049. Group Anagrams](049-anagrams.md)
+- [next: 051. N-Queens](051-n-queens.md)
 
 ---
 
 
+
 ---
 
-- [prev: 49. Group Anagrams](049-anagrams.md)
-- [next: 51. N-Queens](051-n-queens.md)
+- [prev: 049. Group Anagrams](049-anagrams.md)
+- [next: 051. N-Queens](051-n-queens.md)

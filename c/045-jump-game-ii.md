@@ -1,4 +1,4 @@
-[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+[045. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 [![java]](../java/045-jump-game-ii.md)
 [![cpp]](../cpp/045-jump-game-ii.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 44. Wildcard Matching](044-wildcard-matching.md)
-- [next: 46. Permutations](046-permutations.md)
+- [prev: 044. Wildcard Matching](044-wildcard-matching.md)
+- [next: 046. Permutations](046-permutations.md)
 
 ---
 
 
+
 ---
 
-- [prev: 44. Wildcard Matching](044-wildcard-matching.md)
-- [next: 46. Permutations](046-permutations.md)
+- [prev: 044. Wildcard Matching](044-wildcard-matching.md)
+- [next: 046. Permutations](046-permutations.md)

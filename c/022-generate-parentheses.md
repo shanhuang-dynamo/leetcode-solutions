@@ -1,4 +1,4 @@
-[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+[022. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 [![java]](../java/022-generate-parentheses.md)
 [![cpp]](../cpp/022-generate-parentheses.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 21. Merge Two Sorted Lists](021-merge-two-sorted-lists.md)
-- [next: 23. Merge k Sorted Lists](023-merge-k-sorted-lists.md)
+- [prev: 021. Merge Two Sorted Lists](021-merge-two-sorted-lists.md)
+- [next: 023. Merge k Sorted Lists](023-merge-k-sorted-lists.md)
 
 ---
 
 
+
 ---
 
-- [prev: 21. Merge Two Sorted Lists](021-merge-two-sorted-lists.md)
-- [next: 23. Merge k Sorted Lists](023-merge-k-sorted-lists.md)
+- [prev: 021. Merge Two Sorted Lists](021-merge-two-sorted-lists.md)
+- [next: 023. Merge k Sorted Lists](023-merge-k-sorted-lists.md)

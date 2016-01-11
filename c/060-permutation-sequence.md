@@ -1,4 +1,4 @@
-[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+[060. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 
 [![java]](../java/060-permutation-sequence.md)
 [![cpp]](../cpp/060-permutation-sequence.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 59. Spiral Matrix II](059-spiral-matrix-ii.md)
-- [next: 61. Rotate List](061-rotate-list.md)
+- [prev: 059. Spiral Matrix II](059-spiral-matrix-ii.md)
+- [next: 061. Rotate List](061-rotate-list.md)
 
 ---
 
 
+
 ---
 
-- [prev: 59. Spiral Matrix II](059-spiral-matrix-ii.md)
-- [next: 61. Rotate List](061-rotate-list.md)
+- [prev: 059. Spiral Matrix II](059-spiral-matrix-ii.md)
+- [next: 061. Rotate List](061-rotate-list.md)

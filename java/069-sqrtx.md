@@ -1,4 +1,4 @@
-[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+[069. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 
 [![java]](../java/069-sqrtx.md)
 [![cpp]](../cpp/069-sqrtx.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 68. Text Justification](068-text-justification.md)
-- [next: 70. Climbing Stairs](070-climbing-stairs.md)
+- [prev: 068. Text Justification](068-text-justification.md)
+- [next: 070. Climbing Stairs](070-climbing-stairs.md)
 
 ---
 
 
+
 ---
 
-- [prev: 68. Text Justification](068-text-justification.md)
-- [next: 70. Climbing Stairs](070-climbing-stairs.md)
+- [prev: 068. Text Justification](068-text-justification.md)
+- [next: 070. Climbing Stairs](070-climbing-stairs.md)

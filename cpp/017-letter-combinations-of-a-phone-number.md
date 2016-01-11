@@ -1,4 +1,4 @@
-[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+[017. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 [![java]](../java/017-letter-combinations-of-a-phone-number.md)
 [![cpp]](../cpp/017-letter-combinations-of-a-phone-number.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 16. 3Sum Closest](016-3sum-closest.md)
-- [next: 18. 4Sum](018-4sum.md)
+- [prev: 016. 3Sum Closest](016-3sum-closest.md)
+- [next: 018. 4Sum](018-4sum.md)
 
 ---
 
 
+
 ---
 
-- [prev: 16. 3Sum Closest](016-3sum-closest.md)
-- [next: 18. 4Sum](018-4sum.md)
+- [prev: 016. 3Sum Closest](016-3sum-closest.md)
+- [next: 018. 4Sum](018-4sum.md)

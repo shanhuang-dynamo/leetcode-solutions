@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 99. Recover Binary Search Tree](099-recover-binary-search-tree.md)
+- [prev: 099. Recover Binary Search Tree](099-recover-binary-search-tree.md)
 - [next: 101. Symmetric Tree](101-symmetric-tree.md)
 
 ---
 
 
+
 ---
 
-- [prev: 99. Recover Binary Search Tree](099-recover-binary-search-tree.md)
+- [prev: 099. Recover Binary Search Tree](099-recover-binary-search-tree.md)
 - [next: 101. Symmetric Tree](101-symmetric-tree.md)

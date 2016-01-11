@@ -1,4 +1,4 @@
-[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+[005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 [![java]](../java/005-longest-palindromic-substring.md)
 [![cpp]](../cpp/005-longest-palindromic-substring.md)
@@ -15,8 +15,8 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 4. Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.md)
-- [next: 6. ZigZag Conversion](006-zigzag-conversion.md)
+- [prev: 004. Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.md)
+- [next: 006. ZigZag Conversion](006-zigzag-conversion.md)
 
 ---
 
@@ -142,7 +142,8 @@ public class Solution {
 }
 ```
 
+
 ---
 
-- [prev: 4. Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.md)
-- [next: 6. ZigZag Conversion](006-zigzag-conversion.md)
+- [prev: 004. Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.md)
+- [next: 006. ZigZag Conversion](006-zigzag-conversion.md)

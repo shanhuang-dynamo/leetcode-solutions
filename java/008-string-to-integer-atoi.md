@@ -1,4 +1,4 @@
-[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+[008. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 
 [![java]](../java/008-string-to-integer-atoi.md)
 [![cpp]](../cpp/008-string-to-integer-atoi.md)
@@ -15,8 +15,8 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 7. Reverse Integer](007-reverse-integer.md)
-- [next: 9. Palindrome Number](009-palindrome-number.md)
+- [prev: 007. Reverse Integer](007-reverse-integer.md)
+- [next: 009. Palindrome Number](009-palindrome-number.md)
 
 ---
 
@@ -76,7 +76,8 @@ public class Solution {
 In fact for such code, modularization is a much better idea comparing to any attempts to simplify it.
 (e.g. build a FSA parser to support extensibility)
 
+
 ---
 
-- [prev: 7. Reverse Integer](007-reverse-integer.md)
-- [next: 9. Palindrome Number](009-palindrome-number.md)
+- [prev: 007. Reverse Integer](007-reverse-integer.md)
+- [next: 009. Palindrome Number](009-palindrome-number.md)

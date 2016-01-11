@@ -1,4 +1,4 @@
-[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+[080. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 
 [![java]](../java/080-remove-duplicates-from-sorted-array-ii.md)
 [![cpp]](../cpp/080-remove-duplicates-from-sorted-array-ii.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 79. Word Search](079-word-search.md)
-- [next: 81. Search in Rotated Sorted Array II](081-search-in-rotated-sorted-array-ii.md)
+- [prev: 079. Word Search](079-word-search.md)
+- [next: 081. Search in Rotated Sorted Array II](081-search-in-rotated-sorted-array-ii.md)
 
 ---
 
 
+
 ---
 
-- [prev: 79. Word Search](079-word-search.md)
-- [next: 81. Search in Rotated Sorted Array II](081-search-in-rotated-sorted-array-ii.md)
+- [prev: 079. Word Search](079-word-search.md)
+- [next: 081. Search in Rotated Sorted Array II](081-search-in-rotated-sorted-array-ii.md)

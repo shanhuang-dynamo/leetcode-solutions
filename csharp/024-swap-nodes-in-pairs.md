@@ -1,4 +1,4 @@
-[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+[024. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 [![java]](../java/024-swap-nodes-in-pairs.md)
 [![cpp]](../cpp/024-swap-nodes-in-pairs.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 23. Merge k Sorted Lists](023-merge-k-sorted-lists.md)
-- [next: 25. Reverse Nodes in k-Group](025-reverse-nodes-in-k-group.md)
+- [prev: 023. Merge k Sorted Lists](023-merge-k-sorted-lists.md)
+- [next: 025. Reverse Nodes in k-Group](025-reverse-nodes-in-k-group.md)
 
 ---
 
 
+
 ---
 
-- [prev: 23. Merge k Sorted Lists](023-merge-k-sorted-lists.md)
-- [next: 25. Reverse Nodes in k-Group](025-reverse-nodes-in-k-group.md)
+- [prev: 023. Merge k Sorted Lists](023-merge-k-sorted-lists.md)
+- [next: 025. Reverse Nodes in k-Group](025-reverse-nodes-in-k-group.md)

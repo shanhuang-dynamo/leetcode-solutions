@@ -1,4 +1,4 @@
-[99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+[099. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 
 [![java]](../java/099-recover-binary-search-tree.md)
 [![cpp]](../cpp/099-recover-binary-search-tree.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 98. Validate Binary Search Tree](098-validate-binary-search-tree.md)
+- [prev: 098. Validate Binary Search Tree](098-validate-binary-search-tree.md)
 - [next: 100. Same Tree](100-same-tree.md)
 
 ---
 
 
+
 ---
 
-- [prev: 98. Validate Binary Search Tree](098-validate-binary-search-tree.md)
+- [prev: 098. Validate Binary Search Tree](098-validate-binary-search-tree.md)
 - [next: 100. Same Tree](100-same-tree.md)

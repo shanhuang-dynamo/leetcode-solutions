@@ -1,4 +1,4 @@
-[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+[019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 [![java]](../java/019-remove-nth-node-from-end-of-list.md)
 [![cpp]](../cpp/019-remove-nth-node-from-end-of-list.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 18. 4Sum](018-4sum.md)
-- [next: 20. Valid Parentheses](020-valid-parentheses.md)
+- [prev: 018. 4Sum](018-4sum.md)
+- [next: 020. Valid Parentheses](020-valid-parentheses.md)
 
 ---
 
 
+
 ---
 
-- [prev: 18. 4Sum](018-4sum.md)
-- [next: 20. Valid Parentheses](020-valid-parentheses.md)
+- [prev: 018. 4Sum](018-4sum.md)
+- [next: 020. Valid Parentheses](020-valid-parentheses.md)

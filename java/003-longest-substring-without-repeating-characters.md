@@ -1,4 +1,4 @@
-[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 [![java]](../java/003-longest-substring-without-repeating-characters.md)
 [![cpp]](../cpp/003-longest-substring-without-repeating-characters.md)
@@ -15,8 +15,8 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 2 Add Two Numbers](002-add-two-numbers.md)
-- [next: 4. Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.md)
+- [prev: 002. Add Two Numbers](002-add-two-numbers.md)
+- [next: 004. Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.md)
 
 ---
 
@@ -54,7 +54,8 @@ Corner cases:
 - first occurence: so the `lastOccurence` need have a default value `-1`
 - repetition inside 2 duplicated char ('abba'): the `leftBoundary` is always the left boundary of last repetition.
 
+
 ---
 
-- [prev: 2 Add Two Numbers](002-add-two-numbers.md)
-- [next: 4. Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.md)
+- [prev: 002. Add Two Numbers](002-add-two-numbers.md)
+- [next: 004. Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.md)
