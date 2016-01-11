@@ -1,4 +1,4 @@
-[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+[036. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 [![java]](../java/036-valid-sudoku.md)
 [![cpp]](../cpp/036-valid-sudoku.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 35. Search Insert Position](035-search-insert-position.md)
-- [next: 37. Sudoku Solver](037-sudoku-solver.md)
+- [prev: 035. Search Insert Position](035-search-insert-position.md)
+- [next: 037. Sudoku Solver](037-sudoku-solver.md)
 
 ---
 
 
+
 ---
 
-- [prev: 35. Search Insert Position](035-search-insert-position.md)
-- [next: 37. Sudoku Solver](037-sudoku-solver.md)
+- [prev: 035. Search Insert Position](035-search-insert-position.md)
+- [next: 037. Sudoku Solver](037-sudoku-solver.md)

@@ -1,4 +1,4 @@
-[86. Partition List](https://leetcode.com/problems/partition-list/)
+[086. Partition List](https://leetcode.com/problems/partition-list/)
 
 [![java]](../java/086-partition-list.md)
 [![cpp]](../cpp/086-partition-list.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 85. Maximal Rectangle](085-maximal-rectangle.md)
-- [next: 87. Scramble String](087-scramble-string.md)
+- [prev: 085. Maximal Rectangle](085-maximal-rectangle.md)
+- [next: 087. Scramble String](087-scramble-string.md)
 
 ---
 
 
+
 ---
 
-- [prev: 85. Maximal Rectangle](085-maximal-rectangle.md)
-- [next: 87. Scramble String](087-scramble-string.md)
+- [prev: 085. Maximal Rectangle](085-maximal-rectangle.md)
+- [next: 087. Scramble String](087-scramble-string.md)

@@ -1,4 +1,4 @@
-[1. Two Sum](https://leetcode.com/problems/two-sum/)
+[001. Two Sum](https://leetcode.com/problems/two-sum/)
 
 [![java]](../java/001-two-sum.md)
 [![cpp]](../cpp/001-two-sum.md)
@@ -16,12 +16,13 @@
 [js]: ../images/js-logo.png
 
 - prev: none
-- [next: 2 Add Two Numbers](002-add-two-numbers.md)
+- [next: 002. Add Two Numbers](002-add-two-numbers.md)
 
 ---
+
 
 
 ---
 
 - prev: none
-- [next: 2 Add Two Numbers](002-add-two-numbers.md)
+- [next: 002. Add Two Numbers](002-add-two-numbers.md)

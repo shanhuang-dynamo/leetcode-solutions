@@ -1,4 +1,4 @@
-[89. Gray Code](https://leetcode.com/problems/gray-code/)
+[089. Gray Code](https://leetcode.com/problems/gray-code/)
 
 [![java]](../java/089-gray-code.md)
 [![cpp]](../cpp/089-gray-code.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 88. Merge Sorted Array](088-merge-sorted-array.md)
-- [next: 90. Subsets II](090-subsets-ii.md)
+- [prev: 088. Merge Sorted Array](088-merge-sorted-array.md)
+- [next: 090. Subsets II](090-subsets-ii.md)
 
 ---
 
 
+
 ---
 
-- [prev: 88. Merge Sorted Array](088-merge-sorted-array.md)
-- [next: 90. Subsets II](090-subsets-ii.md)
+- [prev: 088. Merge Sorted Array](088-merge-sorted-array.md)
+- [next: 090. Subsets II](090-subsets-ii.md)

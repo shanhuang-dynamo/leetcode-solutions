@@ -1,4 +1,4 @@
-[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+[064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 
 [![java]](../java/064-minimum-path-sum.md)
 [![cpp]](../cpp/064-minimum-path-sum.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 63. Unique Paths II](063-unique-paths-ii.md)
-- [next: 65. Valid Number](065-valid-number.md)
+- [prev: 063. Unique Paths II](063-unique-paths-ii.md)
+- [next: 065. Valid Number](065-valid-number.md)
 
 ---
 
 
+
 ---
 
-- [prev: 63. Unique Paths II](063-unique-paths-ii.md)
-- [next: 65. Valid Number](065-valid-number.md)
+- [prev: 063. Unique Paths II](063-unique-paths-ii.md)
+- [next: 065. Valid Number](065-valid-number.md)

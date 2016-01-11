@@ -1,4 +1,4 @@
-[39. Combination Sum](https://leetcode.com/problems/combination-sum/)
+[039. Combination Sum](https://leetcode.com/problems/combination-sum/)
 
 [![java]](../java/039-combination-sum.md)
 [![cpp]](../cpp/039-combination-sum.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 38. Count and Say](038-count-and-say.md)
-- [next: 40. Combination Sum II](040-combination-sum-ii.md)
+- [prev: 038. Count and Say](038-count-and-say.md)
+- [next: 040. Combination Sum II](040-combination-sum-ii.md)
 
 ---
 
 
+
 ---
 
-- [prev: 38. Count and Say](038-count-and-say.md)
-- [next: 40. Combination Sum II](040-combination-sum-ii.md)
+- [prev: 038. Count and Say](038-count-and-say.md)
+- [next: 040. Combination Sum II](040-combination-sum-ii.md)

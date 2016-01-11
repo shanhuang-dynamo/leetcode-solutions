@@ -1,4 +1,4 @@
-[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+[021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 [![java]](../java/021-merge-two-sorted-lists.md)
 [![cpp]](../cpp/021-merge-two-sorted-lists.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 20. Valid Parentheses](020-valid-parentheses.md)
-- [next: 22. Generate Parentheses](022-generate-parentheses.md)
+- [prev: 020. Valid Parentheses](020-valid-parentheses.md)
+- [next: 022. Generate Parentheses](022-generate-parentheses.md)
 
 ---
 
 
+
 ---
 
-- [prev: 20. Valid Parentheses](020-valid-parentheses.md)
-- [next: 22. Generate Parentheses](022-generate-parentheses.md)
+- [prev: 020. Valid Parentheses](020-valid-parentheses.md)
+- [next: 022. Generate Parentheses](022-generate-parentheses.md)

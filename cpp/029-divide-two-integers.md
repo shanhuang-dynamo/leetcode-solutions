@@ -1,4 +1,4 @@
-[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+[029. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 
 [![java]](../java/029-divide-two-integers.md)
 [![cpp]](../cpp/029-divide-two-integers.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 28. Implement strStr()](028-implement-strstr.md)
-- [next: 30. Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words.md)
+- [prev: 028. Implement strStr()](028-implement-strstr.md)
+- [next: 030. Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words.md)
 
 ---
 
 
+
 ---
 
-- [prev: 28. Implement strStr()](028-implement-strstr.md)
-- [next: 30. Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words.md)
+- [prev: 028. Implement strStr()](028-implement-strstr.md)
+- [next: 030. Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words.md)

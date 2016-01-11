@@ -1,4 +1,4 @@
-[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+[028. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 
 [![java]](../java/028-implement-strstr.md)
 [![cpp]](../cpp/028-implement-strstr.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 27. Remove Element](027-remove-element.md)
-- [next: 29. Divide Two Integers](029-divide-two-integers.md)
+- [prev: 027. Remove Element](027-remove-element.md)
+- [next: 029. Divide Two Integers](029-divide-two-integers.md)
 
 ---
 
 
+
 ---
 
-- [prev: 27. Remove Element](027-remove-element.md)
-- [next: 29. Divide Two Integers](029-divide-two-integers.md)
+- [prev: 027. Remove Element](027-remove-element.md)
+- [next: 029. Divide Two Integers](029-divide-two-integers.md)

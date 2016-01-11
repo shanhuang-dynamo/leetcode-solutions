@@ -1,4 +1,4 @@
-[27. Remove Element](https://leetcode.com/problems/remove-element/)
+[027. Remove Element](https://leetcode.com/problems/remove-element/)
 
 [![java]](../java/027-remove-element.md)
 [![cpp]](../cpp/027-remove-element.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 26. Remove Duplicates from Sorted Array](026-remove-duplicates-from-sorted-array.md)
-- [next: 28. Implement strStr()](028-implement-strstr.md)
+- [prev: 026. Remove Duplicates from Sorted Array](026-remove-duplicates-from-sorted-array.md)
+- [next: 028. Implement strStr()](028-implement-strstr.md)
 
 ---
 
 
+
 ---
 
-- [prev: 26. Remove Duplicates from Sorted Array](026-remove-duplicates-from-sorted-array.md)
-- [next: 28. Implement strStr()](028-implement-strstr.md)
+- [prev: 026. Remove Duplicates from Sorted Array](026-remove-duplicates-from-sorted-array.md)
+- [next: 028. Implement strStr()](028-implement-strstr.md)

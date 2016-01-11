@@ -1,4 +1,4 @@
-[77. Combinations](https://leetcode.com/problems/combinations/)
+[077. Combinations](https://leetcode.com/problems/combinations/)
 
 [![java]](../java/077-combinations.md)
 [![cpp]](../cpp/077-combinations.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 76. Minimum Window Substring](076-minimum-window-substring.md)
-- [next: 78. Subsets](078-subsets.md)
+- [prev: 076. Minimum Window Substring](076-minimum-window-substring.md)
+- [next: 078. Subsets](078-subsets.md)
 
 ---
 
 
+
 ---
 
-- [prev: 76. Minimum Window Substring](076-minimum-window-substring.md)
-- [next: 78. Subsets](078-subsets.md)
+- [prev: 076. Minimum Window Substring](076-minimum-window-substring.md)
+- [next: 078. Subsets](078-subsets.md)

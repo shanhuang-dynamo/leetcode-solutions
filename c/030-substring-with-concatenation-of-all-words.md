@@ -1,4 +1,4 @@
-[30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+[030. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 
 [![java]](../java/030-substring-with-concatenation-of-all-words.md)
 [![cpp]](../cpp/030-substring-with-concatenation-of-all-words.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 29. Divide Two Integers](029-divide-two-integers.md)
-- [next: 31. Next Permutation](031-next-permutation.md)
+- [prev: 029. Divide Two Integers](029-divide-two-integers.md)
+- [next: 031. Next Permutation](031-next-permutation.md)
 
 ---
 
 
+
 ---
 
-- [prev: 29. Divide Two Integers](029-divide-two-integers.md)
-- [next: 31. Next Permutation](031-next-permutation.md)
+- [prev: 029. Divide Two Integers](029-divide-two-integers.md)
+- [next: 031. Next Permutation](031-next-permutation.md)

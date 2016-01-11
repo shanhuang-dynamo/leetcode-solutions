@@ -1,4 +1,4 @@
-[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+[052. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 
 [![java]](../java/052-n-queens-ii.md)
 [![cpp]](../cpp/052-n-queens-ii.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 51. N-Queens](051-n-queens.md)
-- [next: 53. Maximum Subarray](053-maximum-subarray.md)
+- [prev: 051. N-Queens](051-n-queens.md)
+- [next: 053. Maximum Subarray](053-maximum-subarray.md)
 
 ---
 
 
+
 ---
 
-- [prev: 51. N-Queens](051-n-queens.md)
-- [next: 53. Maximum Subarray](053-maximum-subarray.md)
+- [prev: 051. N-Queens](051-n-queens.md)
+- [next: 053. Maximum Subarray](053-maximum-subarray.md)

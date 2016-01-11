@@ -1,4 +1,4 @@
-[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+[041. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
 [![java]](../java/041-first-missing-positive.md)
 [![cpp]](../cpp/041-first-missing-positive.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 40. Combination Sum II](040-combination-sum-ii.md)
-- [next: 42. Trapping Rain Water](042-trapping-rain-water.md)
+- [prev: 040. Combination Sum II](040-combination-sum-ii.md)
+- [next: 042. Trapping Rain Water](042-trapping-rain-water.md)
 
 ---
 
 
+
 ---
 
-- [prev: 40. Combination Sum II](040-combination-sum-ii.md)
-- [next: 42. Trapping Rain Water](042-trapping-rain-water.md)
+- [prev: 040. Combination Sum II](040-combination-sum-ii.md)
+- [next: 042. Trapping Rain Water](042-trapping-rain-water.md)

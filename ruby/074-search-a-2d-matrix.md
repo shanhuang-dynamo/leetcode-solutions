@@ -1,4 +1,4 @@
-[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+[074. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
 [![java]](../java/074-search-a-2d-matrix.md)
 [![cpp]](../cpp/074-search-a-2d-matrix.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 73. Set Matrix Zeroes](073-set-matrix-zeroes.md)
-- [next: 75. Sort Colors](075-sort-colors.md)
+- [prev: 073. Set Matrix Zeroes](073-set-matrix-zeroes.md)
+- [next: 075. Sort Colors](075-sort-colors.md)
 
 ---
 
 
+
 ---
 
-- [prev: 73. Set Matrix Zeroes](073-set-matrix-zeroes.md)
-- [next: 75. Sort Colors](075-sort-colors.md)
+- [prev: 073. Set Matrix Zeroes](073-set-matrix-zeroes.md)
+- [next: 075. Sort Colors](075-sort-colors.md)

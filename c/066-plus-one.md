@@ -1,4 +1,4 @@
-[66. Plus One](https://leetcode.com/problems/plus-one/)
+[066. Plus One](https://leetcode.com/problems/plus-one/)
 
 [![java]](../java/066-plus-one.md)
 [![cpp]](../cpp/066-plus-one.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 65. Valid Number](065-valid-number.md)
-- [next: 67. Add Binary](067-add-binary.md)
+- [prev: 065. Valid Number](065-valid-number.md)
+- [next: 067. Add Binary](067-add-binary.md)
 
 ---
 
 
+
 ---
 
-- [prev: 65. Valid Number](065-valid-number.md)
-- [next: 67. Add Binary](067-add-binary.md)
+- [prev: 065. Valid Number](065-valid-number.md)
+- [next: 067. Add Binary](067-add-binary.md)

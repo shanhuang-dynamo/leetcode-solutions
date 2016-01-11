@@ -1,4 +1,4 @@
-[51. N-Queens](https://leetcode.com/problems/n-queens/)
+[051. N-Queens](https://leetcode.com/problems/n-queens/)
 
 [![java]](../java/051-n-queens.md)
 [![cpp]](../cpp/051-n-queens.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 50. Pow(x, n)](050-powx-n.md)
-- [next: 52. N-Queens II](052-n-queens-ii.md)
+- [prev: 050. Pow(x, n)](050-powx-n.md)
+- [next: 052. N-Queens II](052-n-queens-ii.md)
 
 ---
 
 
+
 ---
 
-- [prev: 50. Pow(x, n)](050-powx-n.md)
-- [next: 52. N-Queens II](052-n-queens-ii.md)
+- [prev: 050. Pow(x, n)](050-powx-n.md)
+- [next: 052. N-Queens II](052-n-queens-ii.md)

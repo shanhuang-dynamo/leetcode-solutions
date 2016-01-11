@@ -1,4 +1,4 @@
-[71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+[071. Simplify Path](https://leetcode.com/problems/simplify-path/)
 
 [![java]](../java/071-simplify-path.md)
 [![cpp]](../cpp/071-simplify-path.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 70. Climbing Stairs](070-climbing-stairs.md)
-- [next: 72. Edit Distance](072-edit-distance.md)
+- [prev: 070. Climbing Stairs](070-climbing-stairs.md)
+- [next: 072. Edit Distance](072-edit-distance.md)
 
 ---
 
 
+
 ---
 
-- [prev: 70. Climbing Stairs](070-climbing-stairs.md)
-- [next: 72. Edit Distance](072-edit-distance.md)
+- [prev: 070. Climbing Stairs](070-climbing-stairs.md)
+- [next: 072. Edit Distance](072-edit-distance.md)

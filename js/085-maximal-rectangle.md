@@ -1,4 +1,4 @@
-[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+[085. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 
 [![java]](../java/085-maximal-rectangle.md)
 [![cpp]](../cpp/085-maximal-rectangle.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 84. Largest Rectangle in Histogram](084-largest-rectangle-in-histogram.md)
-- [next: 86. Partition List](086-partition-list.md)
+- [prev: 084. Largest Rectangle in Histogram](084-largest-rectangle-in-histogram.md)
+- [next: 086. Partition List](086-partition-list.md)
 
 ---
 
 
+
 ---
 
-- [prev: 84. Largest Rectangle in Histogram](084-largest-rectangle-in-histogram.md)
-- [next: 86. Partition List](086-partition-list.md)
+- [prev: 084. Largest Rectangle in Histogram](084-largest-rectangle-in-histogram.md)
+- [next: 086. Partition List](086-partition-list.md)

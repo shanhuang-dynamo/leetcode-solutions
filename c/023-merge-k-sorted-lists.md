@@ -1,4 +1,4 @@
-[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+[023. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 [![java]](../java/023-merge-k-sorted-lists.md)
 [![cpp]](../cpp/023-merge-k-sorted-lists.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 22. Generate Parentheses](022-generate-parentheses.md)
-- [next: 24. Swap Nodes in Pairs](024-swap-nodes-in-pairs.md)
+- [prev: 022. Generate Parentheses](022-generate-parentheses.md)
+- [next: 024. Swap Nodes in Pairs](024-swap-nodes-in-pairs.md)
 
 ---
 
 
+
 ---
 
-- [prev: 22. Generate Parentheses](022-generate-parentheses.md)
-- [next: 24. Swap Nodes in Pairs](024-swap-nodes-in-pairs.md)
+- [prev: 022. Generate Parentheses](022-generate-parentheses.md)
+- [next: 024. Swap Nodes in Pairs](024-swap-nodes-in-pairs.md)

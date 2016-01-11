@@ -1,4 +1,4 @@
-[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+[033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 [![java]](../java/033-search-in-rotated-sorted-array.md)
 [![cpp]](../cpp/033-search-in-rotated-sorted-array.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 32. Longest Valid Parentheses](032-longest-valid-parentheses.md)
-- [next: 34. Search for a Range](034-search-for-a-range.md)
+- [prev: 032. Longest Valid Parentheses](032-longest-valid-parentheses.md)
+- [next: 034. Search for a Range](034-search-for-a-range.md)
 
 ---
 
 
+
 ---
 
-- [prev: 32. Longest Valid Parentheses](032-longest-valid-parentheses.md)
-- [next: 34. Search for a Range](034-search-for-a-range.md)
+- [prev: 032. Longest Valid Parentheses](032-longest-valid-parentheses.md)
+- [next: 034. Search for a Range](034-search-for-a-range.md)

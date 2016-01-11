@@ -1,4 +1,4 @@
-[65. Valid Number](https://leetcode.com/problems/valid-number/)
+[065. Valid Number](https://leetcode.com/problems/valid-number/)
 
 [![java]](../java/065-valid-number.md)
 [![cpp]](../cpp/065-valid-number.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 64. Minimum Path Sum](064-minimum-path-sum.md)
-- [next: 66. Plus One](066-plus-one.md)
+- [prev: 064. Minimum Path Sum](064-minimum-path-sum.md)
+- [next: 066. Plus One](066-plus-one.md)
 
 ---
 
 
+
 ---
 
-- [prev: 64. Minimum Path Sum](064-minimum-path-sum.md)
-- [next: 66. Plus One](066-plus-one.md)
+- [prev: 064. Minimum Path Sum](064-minimum-path-sum.md)
+- [next: 066. Plus One](066-plus-one.md)

@@ -1,4 +1,4 @@
-[91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+[091. Decode Ways](https://leetcode.com/problems/decode-ways/)
 
 [![java]](../java/091-decode-ways.md)
 [![cpp]](../cpp/091-decode-ways.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 90. Subsets II](090-subsets-ii.md)
-- [next: 92. Reverse Linked List II](092-reverse-linked-list-ii.md)
+- [prev: 090. Subsets II](090-subsets-ii.md)
+- [next: 092. Reverse Linked List II](092-reverse-linked-list-ii.md)
 
 ---
 
 
+
 ---
 
-- [prev: 90. Subsets II](090-subsets-ii.md)
-- [next: 92. Reverse Linked List II](092-reverse-linked-list-ii.md)
+- [prev: 090. Subsets II](090-subsets-ii.md)
+- [next: 092. Reverse Linked List II](092-reverse-linked-list-ii.md)

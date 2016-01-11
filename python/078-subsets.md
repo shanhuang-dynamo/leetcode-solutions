@@ -1,4 +1,4 @@
-[78. Subsets](https://leetcode.com/problems/subsets/)
+[078. Subsets](https://leetcode.com/problems/subsets/)
 
 [![java]](../java/078-subsets.md)
 [![cpp]](../cpp/078-subsets.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 77. Combinations](077-combinations.md)
-- [next: 79. Word Search](079-word-search.md)
+- [prev: 077. Combinations](077-combinations.md)
+- [next: 079. Word Search](079-word-search.md)
 
 ---
 
 
+
 ---
 
-- [prev: 77. Combinations](077-combinations.md)
-- [next: 79. Word Search](079-word-search.md)
+- [prev: 077. Combinations](077-combinations.md)
+- [next: 079. Word Search](079-word-search.md)

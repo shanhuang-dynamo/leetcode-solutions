@@ -1,4 +1,4 @@
-[68. Text Justification](https://leetcode.com/problems/text-justification/)
+[068. Text Justification](https://leetcode.com/problems/text-justification/)
 
 [![java]](../java/068-text-justification.md)
 [![cpp]](../cpp/068-text-justification.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 67. Add Binary](067-add-binary.md)
-- [next: 69. Sqrt(x)](069-sqrtx.md)
+- [prev: 067. Add Binary](067-add-binary.md)
+- [next: 069. Sqrt(x)](069-sqrtx.md)
 
 ---
 
 
+
 ---
 
-- [prev: 67. Add Binary](067-add-binary.md)
-- [next: 69. Sqrt(x)](069-sqrtx.md)
+- [prev: 067. Add Binary](067-add-binary.md)
+- [next: 069. Sqrt(x)](069-sqrtx.md)

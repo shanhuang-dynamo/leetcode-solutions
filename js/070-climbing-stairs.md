@@ -1,4 +1,4 @@
-[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 [![java]](../java/070-climbing-stairs.md)
 [![cpp]](../cpp/070-climbing-stairs.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 69. Sqrt(x)](069-sqrtx.md)
-- [next: 71. Simplify Path](071-simplify-path.md)
+- [prev: 069. Sqrt(x)](069-sqrtx.md)
+- [next: 071. Simplify Path](071-simplify-path.md)
 
 ---
 
 
+
 ---
 
-- [prev: 69. Sqrt(x)](069-sqrtx.md)
-- [next: 71. Simplify Path](071-simplify-path.md)
+- [prev: 069. Sqrt(x)](069-sqrtx.md)
+- [next: 071. Simplify Path](071-simplify-path.md)

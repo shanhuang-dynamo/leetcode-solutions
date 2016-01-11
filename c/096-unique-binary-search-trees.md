@@ -1,4 +1,4 @@
-[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+[096. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 
 [![java]](../java/096-unique-binary-search-trees.md)
 [![cpp]](../cpp/096-unique-binary-search-trees.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 95. Unique Binary Search Trees II](095-unique-binary-search-trees-ii.md)
-- [next: 97. Interleaving String](097-interleaving-string.md)
+- [prev: 095. Unique Binary Search Trees II](095-unique-binary-search-trees-ii.md)
+- [next: 097. Interleaving String](097-interleaving-string.md)
 
 ---
 
 
+
 ---
 
-- [prev: 95. Unique Binary Search Trees II](095-unique-binary-search-trees-ii.md)
-- [next: 97. Interleaving String](097-interleaving-string.md)
+- [prev: 095. Unique Binary Search Trees II](095-unique-binary-search-trees-ii.md)
+- [next: 097. Interleaving String](097-interleaving-string.md)

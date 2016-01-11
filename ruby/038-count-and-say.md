@@ -1,4 +1,4 @@
-[38. Count and Say](https://leetcode.com/problems/count-and-say/)
+[038. Count and Say](https://leetcode.com/problems/count-and-say/)
 
 [![java]](../java/038-count-and-say.md)
 [![cpp]](../cpp/038-count-and-say.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 37. Sudoku Solver](037-sudoku-solver.md)
-- [next: 39. Combination Sum](039-combination-sum.md)
+- [prev: 037. Sudoku Solver](037-sudoku-solver.md)
+- [next: 039. Combination Sum](039-combination-sum.md)
 
 ---
 
 
+
 ---
 
-- [prev: 37. Sudoku Solver](037-sudoku-solver.md)
-- [next: 39. Combination Sum](039-combination-sum.md)
+- [prev: 037. Sudoku Solver](037-sudoku-solver.md)
+- [next: 039. Combination Sum](039-combination-sum.md)

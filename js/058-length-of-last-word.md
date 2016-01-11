@@ -1,4 +1,4 @@
-[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+[058. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 
 [![java]](../java/058-length-of-last-word.md)
 [![cpp]](../cpp/058-length-of-last-word.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 57. Insert Interval](057-insert-interval.md)
-- [next: 59. Spiral Matrix II](059-spiral-matrix-ii.md)
+- [prev: 057. Insert Interval](057-insert-interval.md)
+- [next: 059. Spiral Matrix II](059-spiral-matrix-ii.md)
 
 ---
 
 
+
 ---
 
-- [prev: 57. Insert Interval](057-insert-interval.md)
-- [next: 59. Spiral Matrix II](059-spiral-matrix-ii.md)
+- [prev: 057. Insert Interval](057-insert-interval.md)
+- [next: 059. Spiral Matrix II](059-spiral-matrix-ii.md)

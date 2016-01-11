@@ -1,4 +1,4 @@
-[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+[040. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 
 [![java]](../java/040-combination-sum-ii.md)
 [![cpp]](../cpp/040-combination-sum-ii.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 39. Combination Sum](039-combination-sum.md)
-- [next: 41. First Missing Positive](041-first-missing-positive.md)
+- [prev: 039. Combination Sum](039-combination-sum.md)
+- [next: 041. First Missing Positive](041-first-missing-positive.md)
 
 ---
 
 
+
 ---
 
-- [prev: 39. Combination Sum](039-combination-sum.md)
-- [next: 41. First Missing Positive](041-first-missing-positive.md)
+- [prev: 039. Combination Sum](039-combination-sum.md)
+- [next: 041. First Missing Positive](041-first-missing-positive.md)

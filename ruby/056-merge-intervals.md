@@ -1,4 +1,4 @@
-[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+[056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 [![java]](../java/056-merge-intervals.md)
 [![cpp]](../cpp/056-merge-intervals.md)
@@ -15,13 +15,14 @@
 [python]: ../images/python-logo.png
 [js]: ../images/js-logo.png
 
-- [prev: 55. Jump Game](055-jump-game.md)
-- [next: 57. Insert Interval](057-insert-interval.md)
+- [prev: 055. Jump Game](055-jump-game.md)
+- [next: 057. Insert Interval](057-insert-interval.md)
 
 ---
 
 
+
 ---
 
-- [prev: 55. Jump Game](055-jump-game.md)
-- [next: 57. Insert Interval](057-insert-interval.md)
+- [prev: 055. Jump Game](055-jump-game.md)
+- [next: 057. Insert Interval](057-insert-interval.md)
