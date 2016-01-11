@@ -2,3 +2,4 @@ problem-hrefs.txt
 *.aux
 *.log
 gigo/*.pdf
+.DS_Store
