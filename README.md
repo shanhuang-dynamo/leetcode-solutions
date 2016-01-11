@@ -47,6 +47,12 @@ But once you stick on this master branch, few conventions must be met:
 0. The navigation links in the original file must be perserved.
 1. All the notes, code and comments in the code is recommended to be writen in English.
 2. Any other hyper-linked references could be in any languages. (including your own forked branch as reference).
+3. Use one line comment (not multi-line comment) before code, there are several keyword could be used for further LoC generation
+   - Time
+   - Space
+   - Tag
+   - Note
+4. creating a new solution from empty could use the default `Update XXX.md` commit message, otherwise describe what you've done.
 
 ## How to contribute
 TO BE DETERMINED
