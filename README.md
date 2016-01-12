@@ -11,7 +11,7 @@ Please read the [contribution instructions](https://github.com/leetcode-study-gr
 
 ![](https://img.shields.io/badge/Progress-007%20%2F%20309-ff0500.svg) ![](https://img.shields.io/badge/Recent-014-ff6600.svg) ![](https://img.shields.io/badge/Total-028-ff69b4.svg) ![](https://img.shields.io/badge/Name-Jrui-lightgrey.svg) 
 
-![](https://img.shields.io/badge/Progress-006%20%2F%20309-ff0400.svg) ![](https://img.shields.io/badge/Recent-007-ff3300.svg) ![](https://img.shields.io/badge/Total-007-ff69b4.svg) ![](https://img.shields.io/badge/Name-olaolaola-lightgrey.svg) 
+![](https://img.shields.io/badge/Progress-007%20%2F%20309-ff0500.svg) ![](https://img.shields.io/badge/Recent-009-ff4100.svg) ![](https://img.shields.io/badge/Total-008-ff69b4.svg) ![](https://img.shields.io/badge/Name-olaolaola-lightgrey.svg) 
 
 ![](https://img.shields.io/badge/Progress-111%20%2F%20309-ff5b00.svg) ![](https://img.shields.io/badge/Recent-005-ff2400.svg) ![](https://img.shields.io/badge/Total-169-ff69b4.svg) ![](https://img.shields.io/badge/Name-Joshuawong-lightgrey.svg) 
 
