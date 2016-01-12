@@ -3,13 +3,13 @@ Please read the [contribution instructions](https://github.com/leetcode-study-gr
 
 ## Submitter Progresses
 
-![](https://img.shields.io/badge/Progress-117%20%2F%20309-ff6000.svg) ![](https://img.shields.io/badge/Recent-000-ff0000.svg) ![](https://img.shields.io/badge/Total-205-ff69b4.svg) ![](https://img.shields.io/badge/Name-yanyatongzh-lightgrey.svg) 
+![](https://img.shields.io/badge/Progress-009%20%2F%20309-ff0700.svg) ![](https://img.shields.io/badge/Recent-025-ff5b00.svg) ![](https://img.shields.io/badge/Total-032-ff69b4.svg) ![](https://img.shields.io/badge/Name-robturtle-lightgrey.svg) 
+
+![](https://img.shields.io/badge/Progress-017%20%2F%20309-ff0e00.svg) ![](https://img.shields.io/badge/Recent-019-ff4500.svg) ![](https://img.shields.io/badge/Total-021-ff69b4.svg) ![](https://img.shields.io/badge/Name-zhouyuanquaner-lightgrey.svg) 
+
+![](https://img.shields.io/badge/Progress-117%20%2F%20309-ff6000.svg) ![](https://img.shields.io/badge/Recent-005-ff1200.svg) ![](https://img.shields.io/badge/Total-205-ff69b4.svg) ![](https://img.shields.io/badge/Name-yanyatongzh-lightgrey.svg) 
 
 ![](https://img.shields.io/badge/Progress-111%20%2F%20309-ff5b00.svg) ![](https://img.shields.io/badge/Recent-000-ff0000.svg) ![](https://img.shields.io/badge/Total-169-ff69b4.svg) ![](https://img.shields.io/badge/Name-Joshuawong-lightgrey.svg) 
-
-![](https://img.shields.io/badge/Progress-017%20%2F%20309-ff0e00.svg) ![](https://img.shields.io/badge/Recent-000-ff0000.svg) ![](https://img.shields.io/badge/Total-021-ff69b4.svg) ![](https://img.shields.io/badge/Name-zhouyuanquaner-lightgrey.svg) 
-
-![](https://img.shields.io/badge/Progress-009%20%2F%20309-ff0700.svg) ![](https://img.shields.io/badge/Recent-000-ff0000.svg) ![](https://img.shields.io/badge/Total-031-ff69b4.svg) ![](https://img.shields.io/badge/Name-robturtle-lightgrey.svg) 
 
 ![](https://img.shields.io/badge/Progress-007%20%2F%20309-ff0500.svg) ![](https://img.shields.io/badge/Recent-000-ff0000.svg) ![](https://img.shields.io/badge/Total-028-ff69b4.svg) ![](https://img.shields.io/badge/Name-Jrui-lightgrey.svg) 
 
