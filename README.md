@@ -3,13 +3,13 @@ Please read the [contribution instructions](https://github.com/leetcode-study-gr
 
 ## Submitter Progresses
 
-![](https://img.shields.io/badge/Progress-010%20%2F%20309-ff0800.svg) ![](https://img.shields.io/badge/Recent-039-00ff00.svg) ![](https://img.shields.io/badge/Total-034-ff69b4.svg) ![](https://img.shields.io/badge/Name-robturtle-lightgrey.svg) 
+![](https://img.shields.io/badge/Progress-010%20%2F%20309-ff0800.svg) ![](https://img.shields.io/badge/Recent-051-00ff00.svg) ![](https://img.shields.io/badge/Total-041-ff69b4.svg) ![](https://img.shields.io/badge/Name-robturtle-lightgrey.svg) 
 
 ![](https://img.shields.io/badge/Progress-014%20%2F%20309-ff0b00.svg) ![](https://img.shields.io/badge/Recent-031-3ae100.svg) ![](https://img.shields.io/badge/Total-020-ff69b4.svg) ![](https://img.shields.io/badge/Name-olaolaola-lightgrey.svg) 
 
 ![](https://img.shields.io/badge/Progress-019%20%2F%20309-ff0f00.svg) ![](https://img.shields.io/badge/Recent-030-48da00.svg) ![](https://img.shields.io/badge/Total-023-ff69b4.svg) ![](https://img.shields.io/badge/Name-zhouyuanquaner-lightgrey.svg) 
 
-![](https://img.shields.io/badge/Progress-008%20%2F%20309-ff0600.svg) ![](https://img.shields.io/badge/Recent-024-a0ae00.svg) ![](https://img.shields.io/badge/Total-036-ff69b4.svg) ![](https://img.shields.io/badge/Name-Jrui-lightgrey.svg) 
+![](https://img.shields.io/badge/Progress-009%20%2F%20309-ff0700.svg) ![](https://img.shields.io/badge/Recent-028-65cc00.svg) ![](https://img.shields.io/badge/Total-040-ff69b4.svg) ![](https://img.shields.io/badge/Name-Jrui-lightgrey.svg) 
 
 ![](https://img.shields.io/badge/Progress-117%20%2F%20309-ff6000.svg) ![](https://img.shields.io/badge/Recent-021-cc9900.svg) ![](https://img.shields.io/badge/Total-206-ff69b4.svg) ![](https://img.shields.io/badge/Name-yanyatongzh-lightgrey.svg) 
 
