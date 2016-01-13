@@ -19,8 +19,11 @@
 - [next: 028. Implement strStr()](028-implement-strstr.md)
 
 ---
+```java
+public class Solution {
 
-
+}
+```
 
 ---
 
