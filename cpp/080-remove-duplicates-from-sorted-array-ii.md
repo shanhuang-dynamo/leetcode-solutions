@@ -19,7 +19,27 @@
 - [next: 081. Search in Rotated Sorted Array II](081-search-in-rotated-sorted-array-ii.md)
 
 ---
-
+```C++
+//Time:O(n)
+//Beat:67.61%
+//Runtime:16ms
+//Solution: assume the items in array are sorted
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        int count = 0;
+        for (int i = 0; i < nums.size(); ++i)
+        {
+        	if(count < 2 || nums[i] > nums[count - 2])
+        	{
+        		nums[count] = nums[i];
+        		count++;
+        	}	
+        }
+        return count;
+    }
+};
+```
 
 
 ---
