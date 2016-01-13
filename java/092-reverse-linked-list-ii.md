@@ -19,7 +19,6 @@
 - [next: 093. Restore IP Addresses](093-restore-ip-addresses.md)
 
 ---
-(By Yuan) 
 Requirement:Reverse a linked list from position m to n. Do it in-place and in one-pass.
 
 For example:
