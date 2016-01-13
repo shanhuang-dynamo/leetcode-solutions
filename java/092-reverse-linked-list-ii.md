@@ -38,9 +38,13 @@ As to reverse just part of linked list, we should take care several corner cases
 3. Do not forget to record the position of those useful nodes
 My code is as follows:
 
+
+
+''' java
+
 public class Solution {
     public ListNode reverseBetween(ListNode head, int m, int n) {
-    	if (head == null || head.next == null || n == 1){
+    if (head == null || head.next == null || n == 1){
     			return head;
     	}
     	ListNode dummy = new ListNode(0);
@@ -67,7 +71,7 @@ public class Solution {
     }
 }
 
-
+'''
 
 
 ---
