@@ -40,7 +40,7 @@ My code is as follows:
 
 
 
-''' java
+```java
 
 public class Solution {
     public ListNode reverseBetween(ListNode head, int m, int n) {
@@ -70,8 +70,7 @@ public class Solution {
     	return dummy.next;
     }
 }
-
-'''
+```
 
 
 ---
