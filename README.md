@@ -5,15 +5,15 @@ Please read the [contribution instructions](https://github.com/leetcode-study-gr
 
 ![](https://img.shields.io/badge/Progress-010%20%2F%20309-ff0800.svg) ![](https://img.shields.io/badge/Recent-051-00ff00.svg) ![](https://img.shields.io/badge/Total-041-ff69b4.svg) ![](https://img.shields.io/badge/Name-robturtle-lightgrey.svg) 
 
-![](https://img.shields.io/badge/Progress-014%20%2F%20309-ff0b00.svg) ![](https://img.shields.io/badge/Recent-031-3ae100.svg) ![](https://img.shields.io/badge/Total-020-ff69b4.svg) ![](https://img.shields.io/badge/Name-olaolaola-lightgrey.svg) 
+![](https://img.shields.io/badge/Progress-010%20%2F%20309-ff0800.svg) ![](https://img.shields.io/badge/Recent-049-00ff00.svg) ![](https://img.shields.io/badge/Total-057-ff69b4.svg) ![](https://img.shields.io/badge/Name-Jrui-lightgrey.svg) 
 
-![](https://img.shields.io/badge/Progress-019%20%2F%20309-ff0f00.svg) ![](https://img.shields.io/badge/Recent-030-48da00.svg) ![](https://img.shields.io/badge/Total-023-ff69b4.svg) ![](https://img.shields.io/badge/Name-zhouyuanquaner-lightgrey.svg) 
+![](https://img.shields.io/badge/Progress-020%20%2F%20309-ff1000.svg) ![](https://img.shields.io/badge/Recent-037-00ff00.svg) ![](https://img.shields.io/badge/Total-029-ff69b4.svg) ![](https://img.shields.io/badge/Name-olaolaola-lightgrey.svg) 
 
-![](https://img.shields.io/badge/Progress-009%20%2F%20309-ff0700.svg) ![](https://img.shields.io/badge/Recent-028-65cc00.svg) ![](https://img.shields.io/badge/Total-040-ff69b4.svg) ![](https://img.shields.io/badge/Name-Jrui-lightgrey.svg) 
+![](https://img.shields.io/badge/Progress-021%20%2F%20309-ff1100.svg) ![](https://img.shields.io/badge/Recent-032-2be900.svg) ![](https://img.shields.io/badge/Total-027-ff69b4.svg) ![](https://img.shields.io/badge/Name-zhouyuanquaner-lightgrey.svg) 
 
-![](https://img.shields.io/badge/Progress-117%20%2F%20309-ff6000.svg) ![](https://img.shields.io/badge/Recent-021-cc9900.svg) ![](https://img.shields.io/badge/Total-206-ff69b4.svg) ![](https://img.shields.io/badge/Name-yanyatongzh-lightgrey.svg) 
+![](https://img.shields.io/badge/Progress-118%20%2F%20309-ff6100.svg) ![](https://img.shields.io/badge/Recent-029-57d300.svg) ![](https://img.shields.io/badge/Total-212-ff69b4.svg) ![](https://img.shields.io/badge/Name-yanyatongzh-lightgrey.svg) 
 
-![](https://img.shields.io/badge/Progress-111%20%2F%20309-ff5b00.svg) ![](https://img.shields.io/badge/Recent-005-ff2400.svg) ![](https://img.shields.io/badge/Total-169-ff69b4.svg) ![](https://img.shields.io/badge/Name-Joshuawong-lightgrey.svg) 
+![](https://img.shields.io/badge/Progress-115%20%2F%20309-ff5e00.svg) ![](https://img.shields.io/badge/Recent-018-f78300.svg) ![](https://img.shields.io/badge/Total-176-ff69b4.svg) ![](https://img.shields.io/badge/Name-Joshuawong-lightgrey.svg) 
 
 ![](https://img.shields.io/badge/Progress-003%20%2F%20309-ff0200.svg) ![](https://img.shields.io/badge/Recent-000-ff0000.svg) ![](https://img.shields.io/badge/Total-005-ff69b4.svg) ![](https://img.shields.io/badge/Name-zhuwhr-lightgrey.svg) 
 
