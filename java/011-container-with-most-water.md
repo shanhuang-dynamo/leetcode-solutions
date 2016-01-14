@@ -45,9 +45,9 @@ public class Solution {
             if (area > max) { max = area; }
             
             if (height[lo] < height[hi]) {
-                while (lo <= hi && height[lo] <= lHeight) lo++;
+                while (lo < hi && height[lo] <= lHeight) lo++;
             } else {
-                while (lo <= hi && height[hi] <= rHeight) hi--;
+                while (lo < hi && height[hi] <= rHeight) hi--;
             }
         }
         return max;
