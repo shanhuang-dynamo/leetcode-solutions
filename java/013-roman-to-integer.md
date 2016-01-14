@@ -20,7 +20,37 @@
 
 ---
 
+We are writing Java, thus for such tiny simple algorithm, fuck off the awkward performance hacking
+(e.g. use array or function to replace the HashMap).
 
+The function is in fact a one-dimension Dynamic Programming, and the evaluation logic is,
+only when is successing char's base is larger, the value of current char is negative; otherwise
+positive.
+
+```java
+public class Solution {
+    private static final Map<Character, Integer> bases = new HashMap<>();
+    static {
+        bases.put('M', 1000);
+        bases.put('D', 500);
+        bases.put('C', 100);
+        bases.put('L', 50);
+        bases.put('X', 10);
+        bases.put('V', 5);
+        bases.put('I', 1);
+    }
+    
+    public int romanToInt(String s) {
+        int val = 0;
+        char[] chars = s.toCharArray();
+        for (int current = 0, next = 0, idx = 0; current >= 0; current = next) {
+            next = idx < chars.length ? bases.get(chars[idx++]) : -1;
+            val += current < next ? -current : current;
+        }
+        return val;
+    }
+}
+```
 
 ---
 
