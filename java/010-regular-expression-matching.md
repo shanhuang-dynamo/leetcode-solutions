@@ -87,6 +87,18 @@ Note that [this solution](https://leetcode.com/discuss/66032/java-solution-o-n-2
 when '*' could be literal.
 
 Similar to `Longest Common Subsequence`'s DP solution. Former subsequence provide necessary info for further sequence.
+
+Let `S` be the string, `P` be the pattern, `Ss` is `S` concatenate char `s`, `Pp` is `P` concatenate `p`.
+
+Example: S = "abc", a = "d", b = "e", Ss = "abcd", Sab = "abcde"
+
+The rules are:
+
+- `p` is not "*" pattern: `Ss` matches `Pp` <=> `S` matches `P` and (`p` == '.' or `p` == `s`)
+- `p` is "*" pattern: 
+  1. skipItIsFine: this "*" pattern may matches 0 characters, so, `Ss` matches `Pabp` <=> `Ss` matches `Pa`
+  2. matchMore: this "*" pattern has matches 1+ characters, `Ss` mathces `Pap` <=> `S` matches `Pap` and (`a` == '.' or `a` == `s`)
+
 ```java
 // Time: O(n^2)
 // Space: O(n^2)
