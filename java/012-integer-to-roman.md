@@ -30,10 +30,13 @@ Just count the digits without lack-one notation, and then fix it:
   - otherwise => digits * this present (III)
    
 ```java
+// Time: O(n)
+// Space: O(1)
 public class Solution {
+    private static final int[] bases = new int[] {1000, 500, 100, 50, 10, 5, 1};
+    private static final char[] presents = new char[] {'M', 'D', 'C', 'L', 'X', 'V', 'I'};
+    
     public String intToRoman(int num) {
-        int[] bases = new int[] {1000, 500, 100, 50, 10, 5, 1};
-        char[] presents = new char[] {'M', 'D', 'C', 'L', 'X', 'V', 'I'};
         int [] digits = new int[bases.length];
         for (int i = 0; i < bases.length; i++) {
             int base = bases[i];
