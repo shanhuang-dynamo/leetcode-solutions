@@ -20,7 +20,7 @@
 
 ---
 
-This problem is not hard in algorithm, but in its complex business logic.
+This problem is not hard in algorithm, but in its business logic.
 It's more real world code.
 
 ![FSA of atoi](../images/atoi-FSA.png)
@@ -35,27 +35,18 @@ public class Solution {
         char[] chars = str.toCharArray();
         int len = str.length();
         int idx = 0;
-        while (idx < len) {
-            char c = chars[idx++];
-            if (Character.isSpaceChar(c)) {
-            } else if (c == '-') {
-                sign = -1;
-                break;
-            } else if (c == '+') {
-                break;
-            } else {
-                int diff = c - '0';
-                if (0 <= diff && diff <= 9) {
-                    absVal = diff;
-                    break;
-                } else {
-                    return 0;
-                }
-            }
+        // eat up whitespaces
+        while (idx < len && Character.isSpace(chars[idx])) idx++;
+        // sign bit
+        char c = chars[idx++];
+        if (c == '-') {
+            sign = -1;
+        } else if (c != '+') {
+            idx--; // push back
         }
         
         while (idx < len) {
-            char c = chars[idx++];
+            c = chars[idx++];
             int diff = c - '0';
             if (0 <= diff && diff <= 9) {
                 absVal = absVal * 10 + diff;
