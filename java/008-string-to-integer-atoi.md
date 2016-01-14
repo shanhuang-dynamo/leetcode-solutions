@@ -37,6 +37,7 @@ public class Solution {
         int idx = 0;
         // eat up whitespaces
         while (idx < len && Character.isSpace(chars[idx])) idx++;
+        if (idx == len) return 0;
         // sign bit
         char c = chars[idx++];
         if (c == '-') {
