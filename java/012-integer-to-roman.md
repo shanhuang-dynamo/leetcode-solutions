@@ -63,6 +63,8 @@ public class Solution {
 }
 ```
 
+Of cause you can just insert 900, 400, ... as bases. Well solution above just demonstrate the inner logic of Roman numerals.
+
 ---
 
 - [prev: 011. Container With Most Water](011-container-with-most-water.md)
