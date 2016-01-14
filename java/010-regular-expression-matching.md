@@ -90,7 +90,7 @@ Similar to `Longest Common Subsequence`'s DP solution. Former subsequence provid
 
 Let `S` be the string, `P` be the pattern, `Ss` is `S` concatenate char `s`, `Pp` is `P` concatenate `p`.
 
-Example: S = "abc", a = "d", b = "e", Ss = "abcd", Sab = "abcde"
+Example: S = "abc", a = "d", b = "e", Sa = "abcd", Sab = "abcde"
 
 The rules are:
 
