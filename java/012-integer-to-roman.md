@@ -20,7 +20,48 @@
 
 ---
 
+Just count the digits without lack-one notation, and then fix it:
 
+1. if it's a in-half base (i.e. 500, 50, 5)
+  - next digit is 4 => next present + previous present (VIIII => IX)
+  - otherwise => this present (V)
+2. otherwise
+  - next digit is 4 => this present + previous present (IIII => IV)
+  - otherwise => digits * this present (III)
+   
+```java
+public class Solution {
+    public String intToRoman(int num) {
+        int[] bases = new int[] {1000, 500, 100, 50, 10, 5, 1};
+        char[] presents = new char[] {'M', 'D', 'C', 'L', 'X', 'V', 'I'};
+        int [] digits = new int[bases.length];
+        for (int i = 0; i < bases.length; i++) {
+            int base = bases[i];
+            digits[i] = num / base;
+            num %= base;
+        }
+        StringBuilder builder = new StringBuilder();
+        for (int i = 0; i < bases.length; i++) {
+            if (digits[i] == 0) continue;
+            if (i % 2 == 1) { // in-half base
+                if (digits[i+1] == 4) {
+                    digits[i+1] -= 4;
+                    builder.append(presents[i+1]).append(presents[i-1]);
+                } else {
+                    builder.append(presents[i]);
+                }
+            } else if (digits[i] == 4) {
+                builder.append(presents[i]).append(presents[i-1]);
+            } else {
+                for (int j = 0; j < digits[i]; j++) {
+                    builder.append(presents[i]);
+                }
+            }
+        }
+        return builder.toString();
+    }
+}
+```
 
 ---
 
