@@ -7,9 +7,9 @@ Please read the [contribution instructions](https://github.com/leetcode-study-gr
 
 ![](https://img.shields.io/badge/Progress-026%20%2F%20309-ff1500.svg) ![](https://img.shields.io/badge/Recent-044-00ff00.svg) ![](https://img.shields.io/badge/Total-037-ff69b4.svg) ![](https://img.shields.io/badge/Name-olaolaola-lightgrey.svg) 
 
-![](https://img.shields.io/badge/Progress-013%20%2F%20309-ff0a00.svg) ![](https://img.shields.io/badge/Recent-041-00ff00.svg) ![](https://img.shields.io/badge/Total-049-ff69b4.svg) ![](https://img.shields.io/badge/Name-robturtle-lightgrey.svg) 
-
 ![](https://img.shields.io/badge/Progress-120%20%2F%20309-ff6300.svg) ![](https://img.shields.io/badge/Recent-037-00ff00.svg) ![](https://img.shields.io/badge/Total-220-ff69b4.svg) ![](https://img.shields.io/badge/Name-yanyatongzh-lightgrey.svg) 
+
+![](https://img.shields.io/badge/Progress-013%20%2F%20309-ff0a00.svg) ![](https://img.shields.io/badge/Recent-037-00ff00.svg) ![](https://img.shields.io/badge/Total-049-ff69b4.svg) ![](https://img.shields.io/badge/Name-robturtle-lightgrey.svg) 
 
 ![](https://img.shields.io/badge/Progress-024%20%2F%20309-ff1300.svg) ![](https://img.shields.io/badge/Recent-030-48da00.svg) ![](https://img.shields.io/badge/Total-035-ff69b4.svg) ![](https://img.shields.io/badge/Name-zhouyuanquaner-lightgrey.svg) 
 
