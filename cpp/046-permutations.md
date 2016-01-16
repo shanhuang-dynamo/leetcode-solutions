@@ -19,8 +19,44 @@
 - [next: 047. Permutations II](047-permutations-ii.md)
 
 ---
+Given a collection of distinct numbers, return all possible permutations.
 
+For example,
+```[1,2,3]``` have the following permutations:
+```[1,2,3]```, ```[1,3,2]```, ```[2,1,3]```, ```[2,3,1]```,``` [3,1,2]```, and ```[3,2,1]```.
 
+```C++
+//Time:
+//Beat:25.43%
+//Runtime:16ms
+//Solution: Backtracking. Use DFS to find every permutions start from i (i=0 ~ size). 
+Then backtrack to the orginal array.
+
+class Solution {
+public:
+    vector<vector<int>> permute(vector<int>& nums) {
+        vector<vector<int> > res;
+        recursive(nums,0,res);
+        return res;
+    }
+
+    void recursive(vector<int> &nums, int begin, vector<vector<int> > &res)
+    {
+        if(begin >= nums.size())
+        {
+            res.push_back(nums);
+            return;
+        }
+
+        for (int i = begin; i < nums.size(); ++i)
+        {
+            swap(nums[begin], nums[i]);
+            recursive(nums,begin + 1, res);   // DFS find all permutions start from nums[begin]
+            swap(nums[begin],nums[i]);        // backtrack to the original array
+        }
+    }
+};
+```
 
 ---
 
