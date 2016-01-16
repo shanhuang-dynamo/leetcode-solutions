@@ -31,7 +31,7 @@ Here are some examples. Inputs are in the left-hand column and its corresponding
 //Time:
 //Beat:13.19%
 //Runtime:12ms
-//Solution/*
+/*Solution
 1. From end to the beginning, find the first in-order pair of numbers, which is nums[i] < nums[i+1]
 
 2. From end to the beginning, find the first number j larger than nums[i], which is nums[i] < nums[j] 
