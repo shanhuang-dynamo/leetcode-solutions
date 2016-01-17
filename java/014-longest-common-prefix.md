@@ -20,7 +20,36 @@
 
 ---
 
-
+NOTE: [This solution](https://leetcode.com/discuss/79168/1ms-java-solution-beats-86-81%25) is O(n^3)
+for `String.startsWith()` is O(n)! Don't misled by its runtime.
+```
+// Time: O(n^2)
+// Space: O(1)
+public class Solution {
+    public String longestCommonPrefix(String[] strs) {
+        if (strs == null || strs.length == 0) { return ""; }
+        String prefix = strs[0];
+        if (prefix == null || prefix.isEmpty()) { return ""; }
+        char[] one = prefix.toCharArray();
+        int max = one.length;
+        
+        for (int i = 1; i < strs.length; i++) {
+            String that = strs[i];
+            if (that == null || that.isEmpty()) { return ""; }
+            char[] another = that.toCharArray();
+            
+            int commonLen = 0;
+            while (commonLen < one.length &&
+                commonLen < another.length &&
+                one[commonLen] == another[commonLen]) commonLen++;
+            if (commonLen < max) {
+                max = commonLen;
+            }
+        }
+        return strs[0].substring(0, max);
+    }
+}
+```
 
 ---
 
