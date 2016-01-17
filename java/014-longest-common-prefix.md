@@ -22,7 +22,7 @@
 
 NOTE: [This solution](https://leetcode.com/discuss/79168/1ms-java-solution-beats-86-81%25) is O(n^3)
 for `String.startsWith()` is O(n)! Don't misled by its runtime.
-```
+```java
 // Time: O(n^2)
 // Space: O(1)
 public class Solution {
