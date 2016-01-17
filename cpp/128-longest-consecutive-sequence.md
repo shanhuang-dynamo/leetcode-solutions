@@ -19,7 +19,47 @@
 - [next: 129. Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers.md)
 
 ---
+Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
 
+For example,
+Given ```[100, 4, 200, 1, 3, 2]```,
+The longest consecutive elements sequence is ```[1, 2, 3, 4]```. Return its length: ```4```.
+
+Your algorithm should run in O(n) complexity.
+```C++
+//Time:O(n)
+//Beat:94.54%
+//Runtime:12ms
+//My Solution: First sort the array. Then find all consecutive subarray. Once the next number is unconsecutive, store current count into max and reset count. If the next number equals to the current number, just ignore it. Finally, return the maximum max.
+class Solution {
+public:
+    int longestConsecutive(vector<int>& nums) {
+        int count = 1;
+        int max = 1;
+        sort(nums.begin(), nums.end());
+        for (int i = 1; i < nums.size(); ++i)
+        {
+            if(nums[i] - nums[i-1] == 1)
+            {
+                count++;
+            }
+            else if(nums[i] == nums[i-1])
+            {
+                continue;
+            }
+            else
+            {
+                if(count >= max)
+                    max = count;
+                count = 1;
+            }
+        }
+        if(count >= max)
+            max = count;
+        return max;
+    }
+};
+```
 
 
 ---
