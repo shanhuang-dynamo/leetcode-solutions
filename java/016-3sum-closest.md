@@ -20,6 +20,36 @@
 
 ---
 
+## Naive Solution
+```java
+// Time: O(n^2)
+// Space: O(1)
+public class Solution {
+    public int threeSumClosest(int[] nums, int target) {
+        Arrays.sort(nums);
+        int minDistance = Integer.MAX_VALUE;
+        int closestSum = Integer.MAX_VALUE;
+        for (int i = 0; i < nums.length-2; i++) {
+            int first = nums[i];
+            for (int lo = i+1, hi = nums.length-1; lo < hi; ) {
+                int sum = first + nums[lo] + nums[hi];
+                int distance = Math.abs(sum - target);
+                if (distance < minDistance) {
+                    closestSum = sum;
+                    minDistance = distance;
+                } else if (distance == 0) {
+                    return sum;
+                }
+                if (sum < target) { lo++; } else { hi--; }
+            }
+        }
+        return closestSum;
+    }
+}
+```
+
+This [optimization](https://leetcode.com/discuss/77079/java-straightforward-solution-with-explanations) didn't
+overwhelm solution above.
 
 
 ---
