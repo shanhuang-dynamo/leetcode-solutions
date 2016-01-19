@@ -19,7 +19,42 @@
 - [next: 006. ZigZag Conversion](006-zigzag-conversion.md)
 
 ---
+Given a string S, find the longest palindromic substring in S. You may assume that the maximum length of S is 1000, and there exists one unique longest palindromic substring.
 
+```C++
+//Time:O(n^2)
+//Beat:40.63%
+//Runtime:92ms
+//My solution: From middle to the end, find the palindromic substring, record length and start point every time. 
+//             Finally, return the substring from start point and the size of result is length.
+
+class Solution {
+public:
+    string longestPalindrome(string s) {
+    	int length = 1;
+    	int start = 0;
+        for (int i = 0; i < 2*s.size() -1; ++i)
+        {
+        	int begin = i / 2;
+        	int end = i / 2;
+        	if(i % 2 == 1)
+        		end++;
+        	while(begin >= 0 && end <= s.size() && s[begin] == s[end])
+        	{
+        		int count = end - begin + 1;
+        		if(count > length)
+        		{
+        			length = count;
+        			start = begin;
+        		}
+        		begin--;
+        		end++;
+        	}
+        }
+        return s.substr(start,length);
+    }
+};
+```
 
 
 ---
