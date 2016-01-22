@@ -20,7 +20,32 @@
 
 ---
 
-
+```java
+// Time: O(n)
+// Space: O(n)
+public class Solution {
+    private static Map<Character, Character> pairs = new HashMap<>();
+    static {
+        pairs.put('(', ')');
+        pairs.put('[', ']');
+        pairs.put('{', '}');
+    }
+    
+    public boolean isValid(String s) {
+        Deque<Character> pairStack = new ArrayDeque<>();
+        for (char ch : s.toCharArray()) {
+            if (pairs.containsKey(ch)) {
+                pairStack.push(ch);
+            } else if (pairs.containsValue(ch)) {
+                if (pairStack.isEmpty()) return false;
+                char left = pairStack.pop();
+                if (pairs.get(left) != ch) return false;
+            }
+        }
+        return pairStack.isEmpty();
+    }
+}
+```
 
 ---
 
