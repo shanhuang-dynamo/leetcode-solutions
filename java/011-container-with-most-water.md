@@ -36,18 +36,17 @@ one.
 // Time: O(n)
 // Space: O(1)
 public class Solution {
+    @SuppressWarnings("StatementWithEmptyBody")
     public int maxArea(int[] height) {
         int max = 0;
         for (int lo = 0, hi = height.length-1; lo < hi; ) {
-            int lHeight = height[lo];
-            int rHeight = height[hi];
-            int area = (hi - lo) * Math.min(lHeight, rHeight);
+            int area = (hi - lo) * Math.min(height[lo], height[hi]);
             if (area > max) { max = area; }
             
             if (height[lo] < height[hi]) {
-                while (lo < hi && height[lo] <= lHeight) lo++;
+                for (int max = height[lo]; lo < hi && height[lo] <= max; lo++);
             } else {
-                while (lo < hi && height[hi] <= rHeight) hi--;
+                for (int max = height[hi]; lo < hi && height[hi] <= max; hi--);
             }
         }
         return max;
