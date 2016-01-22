@@ -20,7 +20,46 @@
 
 ---
 
+## Corner cases
+- String with '0' or '1' : `[]`
 
+## Backtracking Solution
+The backtracking tree is perserved in the method call stack.
+```java
+// Time: O(3^n)
+// Space: O(3^n) in call stack
+public class Solution {
+    private static final String[] alphbet = new String[] {
+        "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
+    };
+    
+    public List<String> letterCombinations(String digits) {
+        if (digits == null || digits.isEmpty()) { return Collections.<String>emptyList(); }
+        List<String> combinations = new ArrayList<>();
+        List<String> candidates = new ArrayList<>(digits.length());
+        for (char digit : digits.toCharArray()) {
+            if (digit < '2' || digit > '9') { return Collections.<String>emptyList(); }
+            candidates.add(alphbet[digit - '2']);
+        }
+        StringBuilder builder = new StringBuilder(candidates.size());
+        assembleCandidates(combinations, candidates, builder);
+        return combinations;
+    }
+    
+    private void assembleCandidates(List<String> combinations, List<String> candidates, StringBuilder current) {
+        int candidateIdx = current.length();
+        if (candidateIdx == candidates.size()) {
+            combinations.add(current.toString());
+            return;
+        }
+        for (char ch : candidates.get(candidateIdx).toCharArray()) {
+            current.append(ch);
+            assembleCandidates(combinations, candidates, current);
+            current.setLength(current.length() - 1);
+        }
+    }
+}
+```
 
 ---
 
