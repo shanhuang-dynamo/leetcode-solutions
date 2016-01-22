@@ -23,11 +23,11 @@
 ## Corner cases
 - String with '0' or '1' : `[]`
 
-## Backtracking Solution
-The backtracking tree is perserved in the method call stack.
+## Depth First Search Solution
+The backtracking tree is perserved in the call stack.
 ```java
-// Time: O(3^n)
-// Space: O(3^n) in call stack
+// Time: O(4^n)
+// Space: O(4^n) in call stack
 public class Solution {
     private static final String[] alphbet = new String[] {
         "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
