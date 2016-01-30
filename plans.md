@@ -1,3 +1,1 @@
- | Name | Goal |
- | --- | --- |
- | Yang Liu | 20 |
+- Yang Liu : 20
