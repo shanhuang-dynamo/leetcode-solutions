@@ -3,3 +3,5 @@ problem-hrefs.txt
 *.log
 gigo/*.pdf
 .DS_Store
+/.floo
+/.flooignore
